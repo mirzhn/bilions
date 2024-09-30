@@ -1,0 +1,1001 @@
+ClientID,Name,Country,RegistrationDate,AccountStatus,RiskLevel
+d07bdb31-0272-4ae4-b5a3-ee4787167ca5,Amanda Gonzales,Germany,2020-10-13 10:48:01,Active,Low
+19448aec-8fb9-4c05-b999-a4f812cf0eef,Steven Cummings,Australia,2020-09-17 18:06:22,Active,Medium
+6530b0fe-d5d2-4ace-9b1a-9964319da4c3,Elizabeth Diaz,United States,2021-08-08 10:48:22,Active,Medium
+50a229ba-f282-4c9c-b140-9615f8354310,Mary Marshall,France,2023-02-16 05:13:30,Active,Low
+fbd28f96-785f-4988-875d-41281786aae3,Lisa Shelton,United States,2020-10-06 06:33:24,Active,Medium
+2067b7ef-b1b0-4de1-8b5c-817391385ff9,Morgan Garcia,United Kingdom,2020-05-26 15:40:20,Active,Low
+c5082e91-2143-4084-a6ea-33a604db383c,Janet Tran,United States,2020-08-31 10:28:25,Active,Low
+34eaed74-4fc7-446d-a7c0-44f97c785293,Alexander Jackson,United Kingdom,2024-02-04 08:49:24,Active,Low
+bc981513-88dd-4844-8caa-10db841a8818,Kimberly Hooper,Germany,2019-12-22 18:27:50,Active,Low
+624d4372-4c7d-4d19-b034-f44cf378a620,William Knight,France,2019-12-24 01:02:59,Active,Low
+b428869e-0455-4436-a404-e64a1bfb795f,Gavin Hall,United States,2025-02-19 18:52:58,Active,Medium
+8fddffe3-2839-4259-94ec-23f6dd91d274,Jamie James,United States,2020-06-03 07:38:05,Active,Low
+bda8ced6-6dba-4733-b3bb-dabec5078543,Scott Sims,Canada,2020-10-12 16:36:28,Active,Low
+de8f65eb-d5cf-42e8-907c-e27526abff4d,Michelle Reyes,United Kingdom,2020-11-15 11:43:42,Active,Low
+4232e709-87fd-4dc3-bf26-663031a10995,Michelle Wells,France,2022-12-21 09:39:30,Active,Low
+d0528c51-80f0-42f9-88be-527644409016,Jessica Mccarthy,Germany,2023-10-28 14:20:41,Active,Low
+3043fffd-dec1-4cd1-8bd0-93c2a9b428c2,Matthew Bates,United States,2024-07-24 07:27:15,Active,Low
+d462f9e4-e877-4f37-8ea7-9a546b2befda,Debra Dyer,United Kingdom,2021-03-05 12:31:02,Active,Medium
+73be4a1d-53ba-4238-a3b9-ee4894142456,Max Sims,Germany,2024-09-11 23:22:00,Active,Low
+23aee5ad-6e11-4dc5-a695-a310e25b4b01,Angela Perkins,United Kingdom,2023-11-20 14:44:24,Active,Low
+2db45241-9b48-446e-b62d-1288d50169cc,Sara Shelton,Germany,2021-07-01 21:55:29,Active,Medium
+dbf8f378-7c8e-4b72-abfb-53eac89c2b33,Timothy Martinez,United States,2022-02-08 02:27:34,Active,Low
+d4e2f2c1-b79e-4403-bdcf-3bd8d68abb4d,Michelle Terrell,Germany,2024-06-12 02:17:58,Active,Medium
+48748fcb-6bc9-4adf-884e-46803c29ae43,Alison Rhodes,Canada,2020-01-05 23:03:50,Active,High
+27c1ee2a-2e8e-4ba7-9664-913ed4c5ea4c,Rhonda Cohen,United States,2023-10-18 23:41:28,Active,Medium
+842816a9-7932-4742-a27e-7ebce7df7d10,Chelsea Mcclain,United Kingdom,2021-10-16 17:40:17,Active,Low
+d9fd563e-eda7-4683-b40f-d2424cccee75,Nicholas Foster,United States,2020-07-16 20:05:09,Active,Low
+95e54f38-6105-4115-a26b-a6561467f597,Lance Bailey,Germany,2020-10-03 04:51:15,Active,Medium
+4c86af7d-9bb7-4477-a63e-c3c36b28246b,Michael Brown,Germany,2022-03-30 19:31:49,Active,Medium
+e8bd3e6e-7c45-4495-a501-862d042a2e7b,David Jackson,United Kingdom,2022-02-05 09:08:01,Active,Medium
+3cd56c37-b2b9-43c7-8169-8778c262f08d,Carrie Wilson,France,2020-08-09 10:13:53,Active,Low
+247d086a-d369-489a-9679-be31ff2b138c,Kimberly Morris,Germany,2020-07-04 05:34:45,Frozen,Low
+d2ff6c6e-27cb-4a0d-8976-e7d538eb31de,Robert Jones,United States,2024-07-21 14:43:37,Active,Medium
+1376fba9-04dd-48b3-bb55-854b3dd059ca,Theresa Johnson,United States,2019-11-06 21:25:46,Active,High
+390932d0-8fff-4363-b288-0e0dfcdbfe3c,William Diaz,United States,2021-06-03 09:58:59,Active,Medium
+8d2df95a-9dc8-47f4-84eb-ea2d1bcb22da,Deborah Sanchez,France,2023-06-08 06:33:49,Active,Low
+d58eb0cb-1c4e-4948-9173-9157adb602cf,Michelle Wang,Germany,2021-05-19 02:23:48,Active,Medium
+cb2ab343-e380-474f-b3dc-7e3ac25668ea,Nicole Huffman,Canada,2019-11-04 10:17:09,Active,Low
+d9ceea00-4b77-463a-96db-bf5134040739,Christopher Brandt,Germany,2023-09-13 16:32:36,Closed,Low
+fd291a5b-252a-48f5-aaba-165405126a1a,Randy Diaz,Australia,2024-07-15 10:42:53,Active,High
+eec21728-6e66-4033-b377-3b8fc8187071,Brandon Moses,United Kingdom,2020-03-03 08:28:33,Active,High
+f63482d6-199a-42b0-b159-277876eeedcd,Victoria Reed,United States,2022-12-20 04:50:45,Active,Low
+42bcba69-5d71-4b19-9221-aad22c4937c3,Natalie Fields,Canada,2022-01-26 04:57:58,Active,Low
+decea22a-d372-40e4-a0c6-36c9403588ee,Angela Green,United States,2021-07-17 18:59:04,Active,High
+0191e1c7-0529-4be7-b47f-bc9f6366923f,Monique Sanders,United Kingdom,2020-08-30 02:04:37,Active,Low
+1ea8aae0-435b-45ea-a4dd-97f7014fe036,Leah Kemp,Canada,2019-10-26 06:51:48,Active,Medium
+d0808af8-4de2-463b-afa5-3b8c520c48f4,Willie Hines,Germany,2021-07-05 12:13:38,Active,Medium
+cebbee14-2b34-41c4-993d-3d017f697f8b,Michael Price,United States,2023-08-24 18:20:55,Active,Low
+69ffc31b-fda0-455b-bd87-f9f33e0a6953,William Dennis,United States,2022-12-23 08:04:05,Active,Low
+72748549-96b0-46c1-a6fa-38cfcbb81be7,Marvin Hernandez MD,United States,2022-09-11 06:26:53,Active,Low
+9638fa13-812c-40f5-9d63-0121f14a485f,Alexis Hart,United States,2024-11-10 20:57:38,Closed,Medium
+b2255743-e1ea-44db-9b92-79a2ea217cf0,Kelly Rodriguez,United States,2021-05-26 17:35:57,Active,Low
+f24acf45-88b9-419a-80c7-3c374ac67ee3,Johnny Wood Jr.,Australia,2024-02-15 02:18:38,Active,Medium
+9a2d111a-e483-4f5d-bee2-ff07316a9d0a,John Hogan,Germany,2023-03-30 08:43:27,Active,Low
+1b6e87b6-bdad-4eff-a876-ca088a6ce179,Benjamin Brown,Germany,2023-04-28 08:47:23,Closed,Low
+8980e0de-878a-41e0-8019-1c78171c3678,Chad Marsh,United Kingdom,2021-10-22 15:12:28,Active,Medium
+c7067e4e-cab4-49b3-bded-f843559db3cf,Julia Townsend,Germany,2023-11-11 06:47:48,Active,Low
+5ce24fd5-d832-49c5-997e-36dfe7e2930a,Nicole Cervantes,Germany,2019-10-28 02:27:10,Active,Low
+ca9f6580-2a9c-4d4f-bc42-4bb10d2c3f61,Thomas Thomas,United States,2023-12-07 22:49:55,Active,Low
+63f80749-dc26-4b97-a444-ac9d99b5a7be,David Allen,United States,2022-02-26 04:18:59,Active,Medium
+a0f86524-30dc-44c2-89b1-086d0cdf5ae6,Linda Crawford,United States,2020-08-20 03:37:34,Frozen,High
+d6ee7248-0afb-4853-88b1-90259eeba3aa,Kenneth Lee,France,2022-03-21 03:18:01,Active,Low
+baa7478a-d7ee-432f-9834-97cb265c0640,Kristy Maxwell,France,2022-09-04 19:59:14,Active,Low
+dfc9f325-f04e-4b2b-acc8-9b276792bf2c,Michael James,Germany,2021-02-27 03:32:55,Active,Medium
+9d392e27-9b3a-452c-9345-50d0ca70d328,Wendy Taylor,United States,2023-09-28 22:21:25,Active,Medium
+379a4c97-f1b6-497d-9de3-d9a83c13b24f,Devon Scott,Germany,2022-10-09 19:04:57,Closed,Low
+c5e8908d-3b2d-49cf-b5e1-ee6e7f51d8ef,Steven Harrison,Canada,2021-07-30 18:50:39,Active,Low
+e28ba207-882e-4fd3-bfff-ca3fe9657787,Alex Miller,United States,2021-10-12 12:12:15,Frozen,Low
+19692278-394c-49b7-b09b-a1307508d22b,Linda Henry,Australia,2024-08-19 20:58:33,Active,Medium
+4a9abe0a-cf9f-486d-89b2-7857ce4f963b,Carla Allen,United Kingdom,2023-07-26 02:52:51,Closed,Low
+e20931cc-c62e-4b46-ab7f-23465de9075a,Jonathan Olsen,France,2024-03-12 21:57:48,Active,Low
+5ac6b26d-c34b-49b3-bc6f-5ca69aef243c,Marie Hahn,United Kingdom,2023-03-10 22:19:42,Active,Low
+c78ed7d6-2241-4008-af0a-9d308d03dd86,Kimberly Bradford,United States,2024-12-22 03:46:21,Active,Low
+0bc0ff61-5cec-400f-ac57-b15eed2395f0,Amy Hamilton,Germany,2020-08-31 15:19:03,Active,Medium
+d8b73e9e-edf4-4566-b3a7-9b6b88e333c3,Hunter Todd,Canada,2021-09-27 11:02:54,Active,Low
+fe5d1893-83aa-4bbd-88ad-caa9a53ea935,Rodney Schwartz,United States,2020-12-20 05:16:55,Active,Medium
+e6b719c1-9d35-4d58-9c06-4fd2879478a8,Melinda Clark,Germany,2020-03-17 09:17:56,Closed,Low
+ee825981-6fa9-4c95-a972-d844327f7ebc,Michael Bell,Germany,2021-06-23 06:44:28,Closed,Low
+d4b1c226-7fe1-4042-825f-33129a518cd8,Timothy Hester,Germany,2024-03-18 06:01:51,Active,Low
+ddd4c5ac-cbe2-4c06-9237-5b80dbe037cf,James Mitchell,United States,2022-02-21 11:38:03,Active,High
+3c8c2772-1432-4698-889b-45f4e42e704f,Aaron Frank,United States,2020-08-06 04:45:17,Active,Low
+daf904b9-5f39-4051-bd3b-b787a56defeb,Vanessa Acosta,United Kingdom,2023-02-07 11:49:46,Active,High
+3d75dbf1-510c-4983-9d8b-af70c998abe4,Brent Johnston,Canada,2023-12-05 14:06:01,Active,Low
+da547e6f-0e25-46b9-bfc3-65b9b9af2c91,William Park,Germany,2024-01-20 07:34:53,Active,Medium
+52dda909-3059-49d8-9273-bfe79e75ff1a,Carol Owen,United States,2022-03-31 01:22:16,Frozen,Medium
+9a87305b-7b1f-4988-bbeb-a4a3279b56e6,Jose Campbell,Germany,2021-11-15 17:07:30,Active,Low
+d29d5ae9-b54c-4d06-8ae6-9b82d7ac769b,Kevin Vazquez,Canada,2024-07-02 03:31:20,Active,Low
+73b39e58-1d45-430d-b44e-39b0c6861109,Wanda Hernandez,Germany,2020-04-12 21:33:31,Frozen,Low
+71528492-2271-4561-bfe6-4eec8d831bb2,Melissa Gentry,Canada,2023-02-06 18:51:37,Active,Low
+8da7f73e-95a0-4f78-a216-d3f8a3a48173,Michael Lee,Germany,2024-06-19 04:57:48,Active,Low
+c1d4b6b5-9a44-4f32-a0c0-0642a8a09b96,Melissa Garcia,United States,2020-01-11 02:12:34,Closed,Medium
+3a82ceee-55de-438f-a6e1-0cdcd6af4046,Dr. Erica Miller DDS,France,2020-11-19 09:18:50,Active,Medium
+e4e0155a-c75f-499d-95f6-5ae574c2f888,Laura Mccarthy,Germany,2022-01-02 15:30:55,Active,Low
+f21ef2dc-2f89-4f08-ab37-aeb541da5218,Charles Pace,United States,2023-08-03 09:54:10,Active,Medium
+04f955fb-531c-42bf-bcb5-67bdb35fbab2,Kristie White,Canada,2021-12-31 09:54:53,Active,Medium
+baab77ee-cd5f-424e-956e-57e45956aa12,Nicole Wright,United Kingdom,2021-05-04 19:46:02,Active,Low
+1e150aa6-4f28-4994-9ce5-5bb448f9daf0,Jonathon Walsh,United States,2022-04-25 17:22:57,Active,High
+afe475b0-aa39-4f33-ba8b-22e5c6378709,William Hayes,Germany,2021-03-20 17:15:19,Active,Medium
+b266cab2-fd20-4bf2-b341-02eae1afe87e,David Kirby,United Kingdom,2024-04-14 12:10:10,Active,Low
+751901ca-97ba-4b5c-a9b4-f758004dcd8f,Karen Warren,Canada,2022-02-19 21:34:13,Active,Low
+d0b2762c-0c28-4ee4-9a06-c4f81975b526,Eric Mcintosh MD,France,2022-11-05 11:25:10,Active,Low
+67ad9d44-6cf0-4183-ab75-8a03847ad6b3,Tracy Yang,United States,2021-07-28 03:12:13,Frozen,Low
+302d3b02-d4f1-4c7f-b506-fe7c3c3c341e,Dana Sanford,United States,2022-06-18 10:31:32,Active,Low
+74c80c96-0b62-4365-99f9-a81a0c73939e,Michael Vega,Germany,2022-12-18 04:59:14,Active,Low
+7d34ba8c-9559-4437-8153-8ccca26d22d5,Courtney Santos,France,2020-12-16 23:00:01,Active,Medium
+7318f48a-c44d-4cf6-95cd-17bdeaccd35b,George York,Germany,2023-11-15 12:52:54,Active,Low
+52bb23de-a07e-47cd-aadf-bd5b00a8a0ed,Anthony Garcia,United States,2024-04-20 21:50:16,Active,Medium
+8e0df810-f5fd-48db-b64d-f1e085e2e2fb,Laura White,Germany,2020-10-10 09:56:12,Closed,Low
+d12e743a-1006-41a4-854d-9200f4e347c4,Marc Pierce,United Kingdom,2023-11-24 04:02:28,Active,Low
+38a96e5b-9181-4f94-9a3a-f6bdd46e2c0d,Bradley Bailey,United States,2020-09-27 19:38:43,Active,Low
+df1db616-e0d9-4443-b713-941eb7bc689d,Diana Christian,United States,2024-09-15 13:59:09,Active,Low
+5eac677f-0c7a-4027-91d0-c1356e7742df,Steven Shields,United States,2024-02-17 17:39:48,Active,Low
+4214209d-a054-40ba-a547-8d62b7e96983,Danielle Gardner,France,2020-11-13 08:34:26,Active,Low
+ffac0a6e-9ab5-4f7c-b1d7-2b9812312896,James Robinson,Germany,2021-11-07 19:08:13,Active,Low
+b4cdc20c-583f-44e7-a651-83bad2333fe8,Jason Holmes,United States,2024-03-18 17:33:57,Active,Low
+7859ab80-4f18-406a-bfaa-2ee00f92bc57,Todd Rodgers DDS,France,2019-11-18 23:22:58,Active,Medium
+c3416a6d-7ee5-4496-bf4f-6a2a6224debd,Matthew Fernandez,United Kingdom,2023-05-12 14:05:35,Active,High
+ea9555f6-3997-411b-a992-11077227e54e,Fernando Stewart,Canada,2024-06-24 14:31:58,Active,Medium
+2e6e53f6-3d4d-4fc8-bdb4-2a506bd2fdd9,Michael Garcia,United Kingdom,2020-03-05 03:56:26,Active,Medium
+ecaeb7e7-bbf1-41d1-8107-eceb22dbd145,Ryan Crawford,Germany,2020-05-03 18:33:06,Closed,Medium
+42ac3551-c8f3-4e8c-9d56-ffd3b3583409,Jason Jones,United Kingdom,2022-04-19 06:39:26,Active,Medium
+1f09325f-015a-4508-a009-6f0c173c42d7,Mrs. Isabella Craig DDS,France,2022-07-02 07:10:36,Active,Medium
+2e0f3a6f-86b5-4743-b828-7d8822752417,Traci Williams,United States,2023-09-09 06:55:57,Closed,Low
+2f684b1a-b788-40a5-b72d-d6b77389c5e7,Allen Lee,United States,2024-06-30 02:14:57,Active,Low
+631a9377-e706-465d-b235-9e1b93d3ee84,Robert Rodriguez,United States,2024-03-17 14:55:58,Active,Low
+3407b46c-95fc-4dc9-90cc-304c73739660,Marissa Lowery,Germany,2025-02-15 22:36:32,Active,Medium
+d0716bce-0563-4828-9459-c3673d4a9dea,Dr. Nathaniel Walker Jr.,Germany,2023-07-23 18:21:40,Active,Low
+a0f4b3af-6eac-46e7-a2da-00b1c11ddd45,Brian Barrett,United States,2021-03-31 01:20:55,Active,Low
+4afc83fa-5ce9-46c0-af4a-e37c78033e60,Paul Morales,United States,2022-01-01 00:52:03,Active,Low
+234ac269-744b-4508-9f1e-e757d602f036,Melanie Smith,United States,2020-03-22 20:48:08,Active,High
+c4cedc85-d024-48b2-b79d-86589055b124,Timothy Wilson,United States,2020-09-01 06:52:21,Active,Low
+d4ae0cf5-e361-4e62-830a-cf0c1071d9a4,Belinda Valencia,Canada,2020-11-28 04:47:35,Frozen,Low
+9a6ab116-f077-4cb1-a27d-c49d04e3561f,Kyle Carlson,Germany,2024-01-24 10:37:39,Active,Low
+1dd25c51-fef9-49f2-9f9e-b85c549acbfe,Kimberly Hunter,Germany,2023-10-27 07:58:57,Active,Low
+f8bdbb0e-b1a3-44d4-92eb-08fe26bdcb0c,Patrick Tucker,United States,2021-04-17 04:47:49,Active,High
+1773d872-3f4b-4a70-8a04-e462ddc4218f,Kathy Brooks,France,2024-06-11 06:51:47,Active,Medium
+74d92667-9584-402d-8f19-46b3e8932162,James Young,United Kingdom,2021-09-06 18:30:13,Active,Low
+d94484f9-1205-45e3-a194-275a51bc78a0,Jeffery Kerr,United Kingdom,2019-10-14 08:01:11,Active,Medium
+3242e5f9-7baf-473e-86b5-0c3045ba4365,Mrs. Carolyn Newton,Germany,2020-05-20 20:05:10,Frozen,Low
+f648d09f-c43b-4f63-a232-d523070559b3,Chelsea Cross,United States,2020-08-05 20:48:43,Active,Low
+ab367052-0846-43de-9a4c-ea329a85df23,Tracy Martin,Canada,2021-10-19 08:50:07,Active,Low
+ed0398cb-4b2f-4b91-8622-2682dd85976f,Stacy Hutchinson,Germany,2021-09-25 13:08:03,Active,Low
+51b8a734-fd93-473f-8263-8cd6fda4100b,Katrina Butler,Canada,2024-07-30 16:15:03,Frozen,Medium
+bbd6690c-cdf6-4f9f-86e4-93252be63850,Kara Fields,United States,2022-06-26 09:36:34,Active,Low
+d07277ed-77f1-4432-86ff-a35cd7490262,Jason Cline,United Kingdom,2020-01-15 13:07:43,Active,High
+5a6bd9cf-cc61-44a9-894e-25deef5d26d5,Andrew Rodriguez,Canada,2022-01-11 22:36:01,Active,Medium
+4a175c81-3e2a-43ef-bdee-93ea66c5a849,Jared Williams,France,2024-09-24 17:18:23,Active,Low
+8648ad5e-6d4e-4e6e-bcec-6ca5b5196d37,Kevin Foster,United States,2023-07-08 22:06:43,Frozen,Low
+a2269897-3f3e-4e75-997d-979b6fa0df35,Ashley Franco,Australia,2024-01-12 22:06:09,Active,Low
+ebca4ec2-dbf3-4eb9-b073-899d2a980404,Johnathan Robinson,United States,2024-01-19 05:39:12,Active,Low
+562ecea4-7002-48f8-8733-87845fe3e8f6,Eugene Ford,France,2021-02-26 21:01:00,Active,Medium
+df0b1971-f1ec-403d-884b-be7a1c327100,Jeffrey Grant,United Kingdom,2022-05-26 11:40:16,Active,Low
+6038e6d0-ee45-428f-a04f-2d50d8f0f301,Richard Romero,United States,2023-06-10 02:28:06,Active,Low
+749ef62b-37bd-445f-87c6-f29d55accda8,Brittany Brown,United Kingdom,2020-02-11 15:05:12,Active,Low
+9440099e-975d-4020-ab18-56f153649014,Anita French,Germany,2022-07-13 22:55:06,Active,Low
+b4bba314-2143-4ea0-8ed5-a634d5d0b3d6,Victor Roberts,Germany,2021-01-13 05:47:53,Frozen,Low
+1476337f-137e-4f9d-b6e8-73538fefa77a,Shane Peters,France,2022-03-15 13:53:16,Active,Medium
+2b571063-5940-44af-b2af-31df80c0facf,Gregory Martinez,United States,2023-09-26 22:51:28,Active,Low
+cd21bf8b-298c-4a94-a558-1c4dec8f12db,Thomas Ford,France,2023-03-11 22:13:52,Frozen,Low
+f792442f-094f-4932-abf0-68b764ca3709,Susan Silva,United States,2024-06-10 06:58:29,Closed,Medium
+65680c36-d73d-4abc-b261-fd743181883f,Melissa Landry,United States,2021-10-08 04:43:25,Active,Low
+9a635141-6f5c-4d9c-80cf-b363d7c7c408,Ryan Gamble,United Kingdom,2020-07-27 03:07:43,Active,Low
+fa6a075b-c2bd-4b26-b5a5-f8681ddaae95,Daniel Zamora,United States,2022-09-08 11:30:03,Frozen,Medium
+21683fc1-017d-4906-9377-a95e5b596f8e,Crystal Peters,France,2022-08-25 15:48:37,Active,Low
+e6139b4c-86db-475a-b1c8-5576bbeefa5c,Anna Hernandez,Germany,2020-09-01 08:13:42,Active,Low
+81ed1e34-e8ba-4cf9-ae85-a666b1dbc0a8,Thomas Contreras,France,2024-07-06 05:07:17,Active,Low
+e96f3791-4a3e-4fcc-8428-0d60e1d8bb6b,Maria Torres,United Kingdom,2021-10-16 06:58:26,Frozen,Medium
+09eccec8-707f-4be1-84c3-d4ae4f6af315,Jennifer Jones,Germany,2025-02-19 13:16:52,Active,Low
+da06a31f-7c2b-44a2-a09a-5b9f0a67bec2,Tiffany Ford,France,2020-12-18 02:46:27,Active,Low
+129f0e93-4c40-4d53-9b76-75da93369173,Andrea Guzman MD,France,2024-02-13 07:34:33,Active,Low
+53ef4824-5c0c-4db4-a025-fc34f8050729,Philip Ramos,United States,2021-04-17 21:44:57,Active,High
+836a210e-ab32-4dc3-9eab-8e1276b7994a,Charles Le,United States,2023-12-11 14:32:21,Active,Low
+d0fb57a9-ebf1-416d-b3d9-8a37382f704d,Devin Gilmore,United States,2023-01-19 06:25:59,Active,Low
+3b497530-20a9-4e26-9772-853be710f23c,Robert Parker,United States,2023-09-07 12:15:04,Active,Low
+e884e948-cf7e-4495-984e-ceeefbf74b6a,Devon Anderson,United Kingdom,2024-02-20 14:11:35,Active,Medium
+1de9e5bc-0106-4b8f-9dbc-c1ea86cd3626,Trevor Meza,Germany,2021-02-11 17:01:29,Active,Low
+b35aa467-16ba-47db-86f6-b08ff2f4b051,Robert Kim,France,2021-04-30 08:59:07,Active,Medium
+31f53c6c-03a0-47af-8302-caefbcda84ef,Scott Palmer,United States,2021-11-22 07:38:08,Active,Low
+6fedb5fb-ca7c-469f-baa4-f7b11d9a22a7,Scott Knight,Germany,2023-06-29 19:20:07,Active,Low
+8e34ea1d-63f9-4d6d-b9d3-942ad2c31890,Christina Coffey,Canada,2022-12-20 16:50:24,Active,Low
+88fba32c-7f65-4a4f-96dd-fec52a1e8be0,Stacey Morton,Canada,2023-03-19 06:35:24,Active,Low
+1109be36-24b3-4cad-83c9-84c3969ed04d,Catherine Lester,United States,2022-08-25 00:52:55,Active,Medium
+96bfd168-9c6b-4109-9409-515a1586f402,Brandon Camacho,United States,2024-07-24 18:53:28,Active,High
+a5dfacd4-ba47-4be0-bed9-fef2d55d3aee,Michael Wells,Canada,2020-10-19 20:58:59,Active,Low
+95de44d2-cf9f-4ec9-bbfe-a5fa3a95cd9b,Jeffery Smith,Canada,2021-03-23 11:14:11,Active,Low
+3071407d-71db-4bb0-9afe-10a402b32e85,Ann Velez,Canada,2023-01-28 04:33:22,Active,Medium
+93c42835-8144-44ac-bf25-8b15079b827c,Tracy Thomas,United States,2021-01-27 17:46:58,Active,Low
+2cb38f02-2a55-4e3b-a249-7d726b0bbc09,Richard Parker,United States,2021-08-27 17:22:05,Active,Medium
+48a47fd7-3399-4183-9263-ad8f53a22ec1,Heather Petersen MD,Australia,2023-06-10 10:41:25,Active,Medium
+8eac9b97-4feb-4a4d-a324-e9aa0b83af3c,Melissa Barton,Germany,2024-12-25 02:19:52,Active,Low
+e5c288eb-bf49-44af-952e-678b8bd69cd0,Robert Perry,United States,2021-11-18 21:24:12,Active,Low
+60027af4-41b8-46b5-8e3a-8378cd991dee,William Hodges,United States,2022-07-15 16:14:37,Active,Medium
+aa48c081-0ed3-4d47-acf4-184eb37dc08e,Susan Baker,Germany,2021-12-25 15:18:56,Active,Low
+922f15c5-cf3d-4591-bcc0-42133ce38006,Aaron Cole,France,2021-11-20 01:02:55,Active,Low
+18882d62-c99a-4269-86f2-4fd608f69843,Jacqueline Horton,United Kingdom,2020-03-13 20:18:49,Active,High
+759bc31d-a0fa-4eb6-938b-f1a55d39d9b6,Rebecca Merritt,United States,2020-06-28 21:25:09,Frozen,Low
+c3b4177c-5f64-4462-aa36-cc3dc8335ec0,John Holder,United States,2024-12-07 23:36:08,Active,Medium
+83f462a0-3b24-4aee-9797-95b0cb9b2c2c,Laura Mccullough,Australia,2022-05-30 02:25:59,Active,Low
+620662ed-ffa6-407f-9342-3a07606fbc3f,Christopher Jenkins,United Kingdom,2021-04-06 20:29:36,Frozen,Medium
+8b5899fd-ecc7-440b-b7e5-9b3e79ab235d,Judith Mckee,United States,2023-10-09 18:25:51,Active,Low
+963e2fa0-c5ca-4f82-a6a3-850efa88a17c,Joseph Cook,United States,2023-12-20 07:46:10,Active,Low
+fe5d5308-31cf-4035-9c58-b61e8860b545,Andrea Greer,Canada,2025-02-04 18:23:17,Active,High
+bf8088ec-31e9-4880-b09f-c9c2b20f368b,Travis Hopkins,Australia,2020-10-28 23:00:58,Active,Low
+d1e12fc2-925e-40a6-a153-a3a5b8ffe4c9,Theresa Andrews,United States,2020-11-10 16:51:33,Active,Low
+36297b99-3550-430b-af3e-603cb05259bd,Amanda Barrera,United States,2023-07-03 15:50:20,Active,High
+9d94fbb0-a36a-4b53-bd87-bbbf8ba3d53f,Keith Harris,United States,2023-02-12 17:05:48,Frozen,Low
+bf566340-7785-46c3-a58f-9e2943fdd365,Marc Young,France,2021-06-26 06:09:41,Active,Medium
+b11178c3-6750-4321-b0c6-a6fb92306674,Emily Martinez,Canada,2021-03-09 15:49:38,Closed,Low
+7c7c6bff-6202-4142-89a7-502e9964e984,Logan Johnson,United States,2022-02-09 02:43:12,Active,Low
+ebd171a3-d96c-44dc-9a8a-5971063ce1e0,Edward Greer,United States,2020-04-07 17:51:47,Active,Low
+40ac0047-662e-4daf-8e15-5079645016eb,Christopher Anderson,United States,2022-03-07 04:54:26,Active,Medium
+bda3dfb9-1e90-45eb-8de6-9e8bb43c81e6,Caitlin Walker,United States,2023-11-19 19:08:17,Active,Low
+62d32cb1-7390-4bd5-9150-0abc1a01bffe,Thomas Hernandez,United States,2021-12-12 05:24:52,Active,Low
+0ebba4c6-727f-483e-87b2-d30b005b5140,Emily Martin,United States,2021-02-23 07:23:21,Active,High
+28add345-e536-4570-bd27-2316df70a614,Bailey Giles,Germany,2022-03-15 22:45:16,Active,Low
+f183c4d2-d382-48aa-8d00-2f0bd1e6b792,Diana Blake,Germany,2020-03-11 06:29:45,Active,Low
+330d2500-d6ca-4877-808d-fd36cb0429bc,Victoria Braun,France,2022-06-29 13:17:07,Frozen,Low
+2d55b341-d0e5-43d1-bd8f-d4a72930e260,Heather Moore,United Kingdom,2022-09-12 02:17:15,Active,Low
+a890f59f-d8dc-484e-bdde-74a8ae9ee873,Amanda Olsen,Germany,2019-10-25 15:15:29,Active,Low
+4fe1f332-a486-4b95-b9b7-3d5241aa9be3,Manuel Robertson,United States,2023-01-01 08:14:04,Active,Low
+29a0c0e5-95ae-4095-8b2c-f84f5597621f,Latoya Moreno,Canada,2022-11-13 16:06:02,Active,Medium
+d5734a93-f5b2-4114-bc38-843d21148a4b,Rachael Long,United Kingdom,2021-06-06 05:08:19,Active,Low
+7cac9883-7a65-4b1c-9025-91ea5281ca10,Rebecca Suarez,United States,2021-04-18 06:17:36,Active,Low
+55120b42-cc60-4a75-bfaf-8ed67280667e,Lisa Moore PhD,Australia,2022-04-09 10:19:34,Active,Low
+cbdb83bd-92f5-438d-a74a-e10955fa88b6,Kyle Mccoy,Germany,2020-07-10 05:15:29,Active,High
+1dcb8a14-9b5d-49c6-b658-64a6ad677116,Maria Carr,Australia,2020-09-25 16:16:22,Active,Low
+40b88b21-6c31-4a90-a84b-0cff31178610,Jeremy Short,United States,2024-01-09 19:28:17,Active,Medium
+7ebeb321-722f-4957-a387-0eb56ce66f19,Kenneth Fletcher,Germany,2022-10-08 19:04:42,Frozen,High
+4d7bc5f7-39c3-405c-9dbc-efb13fed5a5a,Kelly White,United States,2021-12-12 16:02:00,Active,Low
+dcf1b395-4062-42ac-96f9-510203ff8d42,Kelsey Weeks,United States,2023-06-13 05:38:04,Active,Low
+e0e22556-12f3-421d-b325-f4319dbd0b67,Michael Osborne,United Kingdom,2020-06-28 23:08:12,Active,Low
+833e4299-d5bf-421c-915e-2e38fe6ebe0f,Crystal Skinner,Canada,2022-09-18 06:38:33,Active,Low
+f4a8eb90-7bc6-4aea-85bd-79902c242e8b,Ryan Jackson,Germany,2025-01-26 09:16:07,Active,High
+f710a306-9964-4a47-9649-b9b45b606abc,John Mendoza,United States,2023-10-29 11:19:30,Active,Medium
+2b8d188d-a742-41c6-baac-27abfb0fd2b7,Kenneth Stevens,United States,2022-05-23 10:05:30,Active,Medium
+cb98c457-db7a-40d0-b9e8-172c1c7f0b14,Steven Hall,United States,2022-07-31 19:36:09,Active,High
+a5758f62-3172-4e43-a2c1-80f94911ef61,John Pena,United States,2023-03-08 23:12:32,Frozen,Medium
+cf3c0d5f-88cd-4324-a99c-a00f789506ae,Adrienne Jacobs,United States,2020-07-30 23:58:42,Active,Medium
+96ddc8b6-64cb-454c-ba90-cdc535286e70,Brianna Silva,Germany,2023-03-11 04:15:05,Active,Low
+c55ae9fb-6f45-4cd1-a0cc-5845b25be310,Tina Franklin,United States,2022-03-30 00:33:42,Active,Low
+7dc9d878-e9a4-477f-beda-5870b8a50b2c,Joseph Riley,Canada,2020-12-25 10:08:59,Active,Low
+e039d2d5-ad8d-47f6-b524-6bb2f4e74131,Kenneth King,Germany,2022-03-05 15:05:43,Frozen,Low
+9f11188f-e8f0-4fda-af11-722cb944ec12,Daniel King,United Kingdom,2021-01-26 09:03:11,Active,Low
+0d7eae7e-cc8f-44d4-a2c5-0868be654038,Dave King,Canada,2022-12-08 22:01:21,Active,Medium
+775ce6df-5ace-4309-9bad-54665e2fc6d7,Tonya Harris,Germany,2022-04-15 23:47:48,Active,Low
+922ca77b-a452-41d3-b273-3adfeb759006,Keith Moore,United States,2021-09-01 19:47:43,Active,Low
+dc501046-5780-41f6-a919-5db9bd9b730c,Darren Myers,United Kingdom,2020-01-31 17:04:22,Active,Medium
+e32d2120-c836-499f-b93f-2919f5312bc1,Maria Gould,Australia,2021-03-12 13:30:40,Active,Low
+77be8bd2-f6cd-48f9-a963-15cb82c3b7ad,Austin Wells,United Kingdom,2021-11-24 04:49:08,Active,Low
+980f1814-32ea-4c5c-b07a-06a61d69adbb,Miranda Thomas,United States,2024-03-26 03:45:54,Active,Medium
+f0b76886-3465-4ec4-a476-a492ed8f7f7f,Kelsey Martin,United States,2023-01-24 23:04:58,Active,Low
+ab2fc9b4-089a-48cf-a99c-16d30a150589,Peter Johnson,United Kingdom,2020-01-01 14:05:03,Active,Low
+83443d07-cfe7-4d9b-95dd-9d170faecb04,Jessica Brown,United States,2022-05-05 05:25:44,Active,Medium
+96f27c51-9326-426a-80cc-11419df7e8a5,Michelle Lawson,United States,2023-01-16 13:29:44,Active,High
+1b56110d-c07f-4d67-a555-f94f184c13de,Steven Lopez,United States,2021-04-15 16:27:14,Active,High
+dbc0b2a5-2a5a-4875-87b0-723b07ba3200,Shirley Wong,Germany,2021-06-04 04:47:23,Active,Low
+b4ee242f-d505-4532-a80f-bac5587dd1ac,Stephen Osborn,Canada,2021-02-04 06:08:41,Active,Medium
+a77cb338-56e5-450a-8390-fc50fcd06526,Patrick Jones,Canada,2019-10-07 22:49:03,Active,Medium
+e86062f0-9b18-49ee-9464-4cffed6872c5,Michael Flores,United Kingdom,2023-12-29 15:34:30,Active,Medium
+434d03fc-177f-4c08-909f-ef4280699870,Chelsea Hernandez,Germany,2023-04-03 16:40:44,Active,High
+961b688a-dc2f-42d3-a3c8-4639b4f347dd,Zachary Barber,United Kingdom,2022-11-09 19:14:58,Active,Low
+c4460bbf-37c2-4537-9b8b-cfbe9499befc,Crystal Kerr,Germany,2024-05-07 14:46:00,Active,High
+be509d0b-be6f-42b2-9948-ed668aa68318,John Snow,France,2020-05-30 08:15:49,Active,Low
+6f8f9237-0193-406c-b464-520586db9a25,Walter Collins,United States,2020-01-29 10:32:46,Active,Low
+ef34dff4-9c8c-42fe-a319-3c8ad2cdc6ad,Amy Lewis,Germany,2019-11-26 18:45:09,Active,Medium
+cb50b8da-cf24-4b82-9093-b3872075500e,Michael Wilkerson,France,2020-11-15 16:41:06,Active,High
+82f1909f-d885-4972-b5e6-e9b1ae9b40c6,Diana Harrison,Canada,2019-11-24 18:07:39,Active,Low
+2867845d-5781-4355-b4ca-c363fd3fe65c,Rachel Hunter,Germany,2020-10-31 19:27:15,Active,Medium
+007edb3d-0ac5-455b-84ec-a4d977dbc9b1,Christopher Humphrey,Germany,2022-06-28 23:27:21,Active,Medium
+b4cc52a1-2a79-4ad5-9a66-35e56bac19fd,Nicole Peters,United States,2022-08-28 16:47:56,Active,Low
+ddf5366e-1663-4e90-af2a-af472efb8b38,Kenneth Lara,Australia,2023-12-17 07:59:08,Active,Low
+6f7eff01-03ef-4799-a7e7-eb594b00b6ff,Susan Benson,United States,2022-07-20 22:27:42,Active,Low
+e2905a00-48ba-4b3c-a6ea-8132945a4c10,Jimmy Simon,Germany,2020-07-10 23:04:11,Frozen,Low
+343d1515-36a3-41a9-aec3-142b67d319f1,Johnny Smith,Germany,2023-03-25 17:28:42,Active,Low
+f35390f1-34ff-4dec-b873-cf0900654a05,Gregory Brooks,United Kingdom,2020-12-12 02:09:35,Closed,High
+24e8d220-fa47-4122-8905-dd3ee89aace2,Sherri Preston,France,2022-08-02 01:33:20,Active,Low
+4df9a210-3fa2-47fb-9b92-e159fbbe5fbd,Ronald Nguyen,Canada,2024-02-02 11:32:53,Active,Low
+347d8c3c-b151-4471-83d7-ddf0bc1ea15f,Aaron Frye,United States,2023-12-07 16:36:48,Active,Medium
+fd688fe6-e02e-433e-8396-382c70a57d93,Mark Warren,Canada,2024-08-14 17:33:09,Frozen,Low
+db4d1f00-4048-45d2-bd32-90b5890a18ec,Allison Powell,United States,2020-05-07 02:53:50,Active,Medium
+990d7900-a6f7-4b9d-8548-8b4a609fa823,Nicholas Green,United Kingdom,2023-10-26 20:38:42,Active,Low
+51d50b34-98bf-451b-8c7a-906ddb61c6f1,Bryce Brooks,Australia,2021-11-12 02:48:33,Active,Medium
+aafcd618-4689-4adb-bb53-1d5640181f41,Kyle Rose,United States,2020-12-25 16:54:11,Active,Low
+07e32382-200b-478a-9cc8-c00c541173b4,Melanie Pierce,Australia,2024-04-04 04:58:38,Active,Low
+8eabf1e0-61d6-44ae-b6ce-c66b4cbb251d,Edward Wood,United States,2021-03-01 04:53:51,Active,Medium
+84ff90c4-9a74-475a-af95-49126d5ec382,Caroline Randolph,France,2022-02-09 03:39:46,Active,Medium
+507885ce-b653-4c5b-b9ed-f7cd896a3c0e,Sarah Ellis,United States,2019-10-13 22:23:08,Frozen,Low
+b44702bb-ebb7-4fc5-8391-072b933487c6,Rachel Clark,United States,2020-12-07 21:27:53,Active,Medium
+c9cccf6b-335e-4479-91e5-0834b7ca6002,Jacob Daniels,United States,2021-06-26 00:12:43,Closed,Low
+56ced64e-e355-41a4-bb68-da354e24d016,Linda Evans,United States,2020-08-13 01:07:05,Active,Low
+a424d196-8710-4e61-94d2-4af8ec09a78b,Jenna Gonzales,France,2020-10-24 15:24:24,Active,Low
+ac51b357-4c08-4b0c-af85-b3d39bea2390,Alice Weber,Germany,2021-12-14 23:56:03,Active,Low
+e71c85a0-c3eb-48d5-b70e-cce16336674c,Dana Silva,Germany,2020-03-16 02:45:34,Active,Low
+d57136b8-46e3-4bc2-ad6c-5abd54d01a15,George Howard,United Kingdom,2020-02-23 22:54:15,Frozen,Medium
+c895889d-cd3b-4cf7-9189-fd51f43436cf,Anthony Williams,United States,2021-07-11 10:31:07,Closed,Low
+2c0f7b50-4df5-42dd-83f1-889c6cf41038,Robert Coleman,United Kingdom,2023-06-02 09:47:10,Active,Low
+5531e10c-51ae-417a-b306-b089c0dc51be,Sarah Patel,Germany,2024-05-02 21:37:29,Active,Low
+403255dd-eb7d-460d-8f50-ff3e033d3210,Reginald Anderson,United States,2020-05-14 14:27:27,Active,Low
+ab23d0fa-a18b-477b-8c1d-a3b991d905cb,Jason Smith,United States,2023-01-31 20:35:39,Active,Medium
+fd64d820-f514-484d-9f95-41bd9633b794,Nicole Jones,Canada,2024-06-14 23:45:32,Active,Medium
+a999e7fd-f362-41cf-9c47-07a0a3016a98,Angel Thomas,United States,2023-08-15 12:16:02,Frozen,Low
+5f1dbe40-f7a2-4ffd-abf3-67e0a89a34ec,Phillip Dixon,United Kingdom,2022-05-29 15:11:29,Active,Low
+7cd1967e-7708-43e0-9d98-0e07f6265633,Casey Jackson,United States,2023-10-06 19:44:18,Active,Medium
+502ad7fa-5e0c-4774-949c-95482e3a26f2,Jose Thomas,United States,2021-02-25 02:24:25,Active,Medium
+f6c6c2b9-bcbf-4e1e-91b0-e8810bed04e3,Jay Spears,United States,2021-02-04 23:02:30,Active,Medium
+e96f3433-edc2-4d11-a526-0eba012613d5,Tara Mayer,Australia,2021-05-22 21:58:03,Active,Low
+50f148d3-d17d-40eb-8932-9944330a51cb,Rachael Goodman,United States,2023-02-16 13:58:59,Active,Low
+ec647904-843a-4d54-b358-4993caf712f1,Brittney Watson,United States,2023-02-13 06:11:10,Active,Low
+981e8ddb-61b8-411b-b166-4114f1090798,Todd Simpson,Canada,2021-04-24 01:48:04,Active,Medium
+c3fb3706-cbe5-474f-a54f-f97b98d16d7c,Brett Blair,United States,2019-12-12 20:54:41,Active,Low
+7f38de92-90b7-4c14-95ed-34ecdc371dc9,Amy Mullen,United Kingdom,2022-05-25 20:44:30,Closed,Medium
+de6ddafe-1d71-4275-8881-1c54920ee458,Dominique Jackson,United States,2021-09-27 15:06:14,Active,Low
+a6f15da8-f051-4201-b899-fbaa30aee7c4,Nicholas Bray,United States,2021-03-25 20:25:19,Active,High
+add6d843-fa9f-493b-bde6-dc50d51e31d3,Erica Bernard,United States,2020-03-22 18:14:45,Active,High
+1a0181ff-c173-4cdf-8a92-a5afe32d2b13,Thomas Sampson DDS,United Kingdom,2025-05-08 09:35:50,Active,Medium
+06130c55-ac92-4723-a12e-38cd1b088412,Sherri Willis,United States,2022-08-12 18:42:44,Active,Low
+c21a4040-570c-4bf0-a723-99741561053c,Thomas Elliott,France,2021-10-21 09:42:02,Active,High
+268f259b-d5b8-44a8-9f28-8e17c6d66164,Sara Perez,United States,2020-11-07 23:56:48,Active,High
+9261cbac-3e69-4803-ad24-dd7366b2ba0a,Victoria Harrison,United Kingdom,2022-10-08 07:11:55,Active,Medium
+d4689073-a119-4e2e-83d9-1f9937a6c248,James Cummings,United States,2021-07-08 04:29:25,Active,Medium
+2a02be70-298a-4097-8d73-b74cb4706a9d,Karen Wells,United States,2023-08-08 15:49:04,Active,Low
+9fa4968e-df0e-413f-986f-46f8b6d55645,Morgan Smith,Germany,2023-01-23 07:25:03,Active,Medium
+a419122e-70a4-4e89-837f-2027e60d7f32,Andrew Ingram,France,2021-06-20 04:11:54,Active,Low
+2fd447a2-18b8-44f2-a02e-930be988f344,Tiffany Stark,United States,2023-09-07 13:22:18,Active,Low
+33fe0b11-83a4-4525-a519-d71a9008b98c,Janice Williams,United States,2021-09-29 20:04:39,Active,High
+c655c581-d91b-4f93-bf6b-2aa336c524d3,Miss April Edwards,United States,2024-10-24 03:07:32,Active,Medium
+4da998a9-476d-45eb-8207-3824f9f2e0ee,Kristen Wells,Canada,2021-12-03 06:28:24,Active,Medium
+867de9d8-1620-4d15-8c41-d2f88b30cc81,Manuel Walker,Canada,2021-04-07 18:34:55,Active,Medium
+8fd72643-1f9b-4ddf-96e0-95aed5f14bb0,Diane Adams,United Kingdom,2020-03-07 02:04:16,Active,Low
+8cfae12e-2c45-45e8-8e00-f1dfff1643f6,Kristin Hampton,France,2020-03-10 16:11:26,Active,Low
+440b297e-5c24-4af3-8235-885bfa641be6,Robert Perez,United States,2021-06-06 21:01:54,Closed,Medium
+833835c2-1d0b-463f-94cc-16cfb6f5a1bc,Michael Wilson,United States,2023-03-02 11:16:08,Active,Low
+1bd2f700-80f0-4f81-8375-de2979fb41ac,Gina Kelly MD,United States,2021-12-13 07:44:01,Active,Low
+e3760ee9-ab83-49f9-9d1d-5aba704fcc45,Tom Weiss,Germany,2022-05-13 21:43:16,Active,Low
+dfe54088-a423-49a6-a0ab-ae0863182160,David Torres,France,2020-02-08 10:59:32,Active,Low
+72adf3af-fc97-4801-9cd5-b90abea3d23b,Crystal Robles,United States,2023-12-05 11:51:06,Closed,Low
+ad38c549-a657-495f-99c6-811f9dd53fe2,Elizabeth Ramos,United States,2021-05-04 21:18:08,Active,Medium
+fe70968e-af57-4d09-bd82-e3c49ef3927e,Jose Williams,United States,2021-03-25 10:51:27,Active,Low
+b476e836-d8ec-4d3e-8feb-74636286da1b,Cindy Romero,United States,2024-08-14 10:14:12,Active,Low
+22791dde-a51b-4512-91d0-b084a98e0f03,Robert Gallagher,Canada,2020-09-30 17:25:01,Active,Low
+983529ff-72c0-4ac7-b41c-6a43effba8ef,Matthew Kline,Canada,2023-08-10 14:16:38,Active,Low
+eaea7476-35f0-411a-8b07-2bb876890330,Kevin Fernandez,United States,2019-12-31 17:46:45,Active,High
+3941550c-5ee0-491f-a027-b61dc34371ba,Michaela Davis,United Kingdom,2020-01-16 19:34:21,Active,High
+121e4b3e-9210-4625-b4ca-22f6c4dd2562,Brittney Armstrong,Germany,2022-02-12 17:53:28,Active,Low
+ac2cfc7e-5a73-47b6-ada1-3971a45906a3,Tonya Pruitt,France,2024-07-31 02:33:46,Closed,Low
+bfe956f7-7168-45d8-8ffa-4c72c86abfd5,Shannon Ballard,France,2020-02-27 00:47:14,Closed,Medium
+23ed8351-d739-4885-b376-8ef70a931045,Eric Williams,Germany,2021-01-18 13:15:45,Active,Low
+de2d723c-6659-40eb-a5a4-dcbc6a71225c,Erin Daugherty,United States,2023-01-26 14:51:03,Active,Low
+9707df40-705d-44d3-9e46-20f03b056fcb,Stephanie Harmon,France,2023-09-10 23:00:53,Active,Low
+a08ed9a4-4b7e-421b-8b9f-f4d4c9fc61ec,Tara Kelly,France,2021-08-16 18:44:37,Active,Medium
+22c2a603-3f31-4308-97ff-8c82edee36a8,Edward Patrick,United Kingdom,2023-04-26 13:59:03,Active,Low
+ec054585-ddb5-4291-9df2-68188bf127fe,Mark Anderson,Germany,2021-09-18 20:29:31,Active,Low
+eb3e6bf2-105f-44a5-a83d-199b5eebe9f9,Brian Bryant,Germany,2023-05-22 03:11:27,Active,Low
+2361c65a-1839-493e-a0da-970419910f4e,Cameron Thomas,United Kingdom,2023-07-07 09:54:15,Active,Medium
+9b4194fa-e7af-44dc-95f6-40153038693a,Patrick Chase,France,2023-07-09 11:36:42,Active,Low
+6556187d-cd7b-41ae-9601-53b4c0a87ce6,Rita Perry,United States,2020-12-15 23:44:24,Active,Medium
+8e700502-d0f8-4498-91a2-16fb3b401ca4,James Smith,United States,2023-07-12 01:53:01,Active,Low
+a7284c66-8c0f-4a89-9d64-d349a63b3762,Robert Smith,United States,2022-12-14 15:35:08,Active,High
+9060e15d-5236-441e-bbdb-a4d1677ccb54,Lisa Harvey,France,2023-11-18 23:27:46,Active,Medium
+c2f689cd-c330-45e9-9142-2f9c89f75fd4,Jeffrey King,United States,2024-05-21 04:40:42,Active,Low
+9b9ce483-273a-4cd7-ae7f-f9c52cc87dc0,Christopher Black,Germany,2022-05-07 15:07:14,Active,Low
+262f2044-5eac-46e2-bc6a-5e3152a4e380,Jeremy Harper,Germany,2021-10-09 13:31:47,Active,Low
+02c27c98-e237-4673-a4de-6c86397e35d8,Nichole Garcia,United States,2023-04-01 07:15:52,Active,Medium
+3211a6a4-d6cf-45c7-9756-53f9d48cae97,Jerry Serrano,Germany,2020-09-20 04:02:57,Active,Medium
+fe6154be-53d0-4c21-98da-07eb3e94ac1c,Martin Gonzalez,France,2024-06-12 01:50:15,Active,Medium
+24b46a54-f101-4c90-8cdb-e08fffce3db2,Philip Holmes,United States,2020-06-01 14:07:31,Active,Low
+2935c5ba-e194-4f5e-b9b1-2951ac72e8c4,Alexa Adams,United States,2023-01-18 01:00:40,Active,Low
+2e27290a-9091-4f8b-a91c-a61c31fc5cf6,Gregory Parker,United States,2024-06-28 11:17:44,Frozen,Low
+cbad8c5e-7b9b-4f28-875e-5ce484703105,Thomas Cline,United States,2022-03-28 21:27:17,Closed,Low
+b001970c-9139-4bb5-85f6-5f57f11e893f,Randy Miller,United States,2022-02-23 04:32:41,Active,Low
+d3529925-f500-4961-9818-272797df027d,Travis Torres,United States,2020-01-16 05:55:50,Active,High
+433fc615-24ed-42db-9bcf-eec46e73ff00,Lisa Chase,Australia,2020-03-07 16:46:32,Active,High
+cf2b5dc7-68b1-4af1-ae43-39b3e448697c,Tasha Miller,France,2020-04-29 07:09:11,Active,Low
+028121de-ee98-4331-88f3-c816f8c6cc31,Brian Johnson,United Kingdom,2020-05-15 18:59:29,Active,Medium
+667a1364-e8a4-4cc9-a229-fa542e79a840,Matthew Stewart,Germany,2024-09-02 11:25:39,Active,Low
+8b15781a-2863-4b2f-aca3-3e67241c77d5,Rita Wu,United States,2021-04-25 17:45:05,Active,Low
+1a953888-cedf-4e94-9a8e-8473e0126976,Norman Key,United States,2023-06-30 14:40:24,Active,Low
+8cedc4af-db44-41ae-81b9-e9b1734004a0,Nancy Larsen,France,2020-07-04 13:50:18,Active,Medium
+5c51abf0-6e58-4fdf-85e0-348e54b02100,Diana Williams,France,2022-07-12 12:20:23,Active,Low
+0ac181aa-098f-4d09-bd3a-c8d33bed7e45,Christopher Young,Canada,2020-07-03 10:56:48,Active,High
+a47bdfec-dcb7-42a6-b20f-58a4a92aa61c,Miguel Liu,France,2023-07-16 16:30:55,Frozen,Low
+180209f0-7210-462d-814f-6b37ecdb203b,Steven Collier,United States,2022-06-27 19:05:03,Closed,Low
+fd2481f5-bad2-4990-a6c8-5ccd5a99ae83,Aaron Martinez,United States,2021-02-23 23:51:17,Active,Medium
+2572d6a2-aef1-4e16-861c-958b6c00e9d0,Ashley Hayes,Canada,2025-06-26 11:57:27,Active,Medium
+fd78f766-f49a-40e8-a9d9-f2bc1521baa6,Claudia Carr,Canada,2021-08-31 06:43:53,Active,Low
+8e8dc22d-2066-486c-b368-df038d1d6a06,Steven Davis,United States,2022-04-30 09:13:05,Active,Low
+c2c1466a-c386-48a2-b15d-77862a4380f6,Robert Drake,United Kingdom,2020-07-17 11:44:13,Active,Medium
+f3e5386b-042b-44a7-ba20-387bb97bf427,John White,United Kingdom,2021-01-15 23:14:02,Active,Medium
+2076040c-d919-4c04-8749-328ca771ee89,Joseph Hernandez,Canada,2020-02-11 13:43:51,Active,Low
+0a689d79-b68e-4cd3-8021-6581ac640c31,Angelica Nunez,United States,2020-06-03 18:14:55,Active,Low
+25ebdf04-d0ee-477c-8e6d-ea3d78c8dad6,Jerry Thompson,United States,2024-12-05 16:24:56,Active,Medium
+732bd2b4-6f29-4ebf-a33d-6944bdf74900,Jordan Owens,France,2022-12-23 00:43:58,Active,High
+40217835-ea8f-4fca-83bd-356c99698242,Michael Davis,Germany,2020-09-20 19:21:47,Active,Low
+4d1714e1-e3ee-4b0c-92f9-52d848c71790,Robert Gibson,Germany,2020-04-07 11:50:48,Active,Low
+f6e21135-0098-4219-9319-5cdbab353cd0,Rebecca Berg,United States,2020-06-15 02:11:05,Active,Low
+19610f31-daf5-4b6b-85cd-67d77d70de0e,Julie Carrillo,Canada,2020-03-01 21:26:03,Active,Medium
+3783deb8-478f-4a7f-8b15-8a0ededbc682,Ashley Campbell,United Kingdom,2020-04-24 20:42:02,Active,High
+2f9e2f5a-3bde-4ef4-b09e-95437af9d882,Jessica Hunter,United States,2020-04-13 15:27:02,Active,Medium
+2c07daf5-0f1d-478f-bc31-a3bc4d573744,Veronica Wallace,United States,2020-02-08 03:03:06,Frozen,Medium
+ec42d726-9fcc-4a60-a856-d2f97431bab3,Mark Garcia,Germany,2022-03-17 06:15:11,Active,High
+4ecd5edb-6ffa-412c-95db-5438b938b721,Robert Davis,Germany,2023-03-17 08:44:12,Active,Medium
+0744949d-2a2e-4903-a951-a48265189061,Ricky Schultz,Germany,2023-05-28 04:31:53,Active,Medium
+a502e766-a910-4165-9a5e-727e95a91ed2,Gregory Wright,United States,2019-12-17 12:01:39,Frozen,Low
+0fdcf4ec-2828-431b-b69c-ad5e142575c5,Caroline Sampson,United States,2021-01-04 18:47:43,Active,Medium
+354e6a33-69ae-4578-b62d-a39e2a648fa1,Brian Riley,Germany,2020-02-13 21:58:05,Active,Medium
+355a67fb-481a-4c37-8f60-bf81867d2972,Dave Taylor,United States,2023-09-20 05:32:39,Frozen,High
+9e842f76-8259-4b42-9bb1-64df95102c1e,Marcus Vega,United Kingdom,2023-01-04 10:48:09,Active,Low
+21a8da2a-e86d-4e3a-ab38-9cf2dd5f6a54,John Palmer,United States,2023-06-11 07:21:29,Frozen,Medium
+75586e66-94b4-4954-91c8-3f1bd0c72bc1,Tracie Hebert,Germany,2023-08-05 22:36:10,Closed,Low
+dba699dd-6f62-41c9-8cc1-d0b8eccf21d8,April Mendez,United States,2023-07-21 04:17:57,Active,Low
+a17eee42-9d46-4aba-bf0e-e6cb96ae584d,William Robinson,United States,2022-05-01 06:16:13,Active,Low
+463ce2ff-1d78-4516-bd47-7487f10a9c9c,Martha Spencer,France,2023-12-18 05:55:33,Active,Medium
+b407928e-3a69-4d14-afdc-8f9091eaf3b5,Thomas Barron,United States,2024-04-08 11:25:28,Active,Low
+d6438366-5e78-4fb6-b4c0-2b5bc9242191,Jordan Berg,Australia,2021-08-12 17:01:49,Active,Low
+1b524ee5-cd76-4e44-af7d-c7cd2d9c1a3e,Renee Rich,United States,2023-08-24 15:08:01,Active,Low
+46a646bd-2ca4-41fb-97de-df6981087fea,Samantha Hamilton,Canada,2022-01-15 13:09:40,Frozen,Low
+a930361e-27e8-4833-8cab-bdc8d2c3dcfb,David Dixon,United States,2020-02-08 03:47:36,Active,Low
+a3235489-a5d1-4fbf-ae3b-8aeccb84f3fa,Regina Green,United States,2023-12-04 01:53:51,Active,Low
+639ef4fa-65e9-4557-b386-a1764bcb91dd,Randy Wilson,United States,2024-03-04 20:31:51,Active,Medium
+b8564b85-7bce-4f04-baef-c43658cc3d16,Justin Webb,Canada,2023-01-08 18:59:41,Active,Low
+33fc54e0-bdf1-4468-a73d-49c6054ec791,Heidi Reyes,Germany,2019-12-16 02:50:29,Frozen,Low
+f5c5d320-6b33-4816-a2e2-af2ee37158c5,John Maldonado,United States,2020-12-21 08:47:55,Active,Low
+628c3b0d-4670-4cc1-9e4d-71f169551387,Joshua Bush,Canada,2019-10-09 10:35:19,Frozen,Low
+ece0c292-3668-4d42-9da3-0475c490522a,Jennifer Taylor,Germany,2024-11-26 01:47:54,Active,Medium
+2e8769aa-6302-48c7-9231-76041732dd8a,Paula Miller,Germany,2022-07-19 07:53:22,Active,Medium
+576f1c0c-ab16-4644-9150-ca5a48d83bce,Michael Williams,France,2022-10-31 13:29:58,Active,Low
+8884a063-a55e-413a-a378-7bb59f0c9eb6,Kristen Walker,Germany,2024-07-11 04:27:46,Closed,Low
+fbd637b1-2cfc-44d1-be9c-ee375b6cf91f,Valerie Reed,United States,2022-05-08 22:14:17,Active,Low
+a06d3023-1eb1-46ba-a57c-02069563c556,Kevin Duffy,United Kingdom,2021-05-13 23:22:54,Active,Medium
+8c82d4f2-5052-4f53-bdd5-d5ed991dfbf1,Joseph Hawkins,United States,2021-03-09 17:13:03,Active,Medium
+f91ad0e2-7678-40ce-88f8-0d5bd4bf46d0,Julie Stevens,United Kingdom,2022-01-14 14:41:24,Active,Low
+9371a29c-811c-4cbe-ac0f-93c156ae3533,Timothy Lowery,France,2019-11-18 21:37:08,Active,Medium
+229f7aa0-3009-4602-a8f9-f46cdc1b2cf1,Charles Hatfield,Australia,2021-03-23 00:24:02,Active,Medium
+08c9bc7c-d6a8-4b74-b350-85f4c5bf773d,Jerry Stuart,United Kingdom,2024-04-21 14:24:50,Active,Low
+ebc4cdbd-9da5-4016-ae66-505b3d8072fb,Thomas Klein,Canada,2020-08-12 23:29:07,Active,Low
+ff9891cd-4f8c-430c-b22f-8f3fd1552dcb,Derrick Barr,Canada,2020-07-21 03:59:19,Active,High
+fdee7825-3372-4fbc-9c54-9ebf25719480,Adrian Berger,United States,2024-01-01 10:01:44,Active,Low
+7ef65edd-3f66-4a51-a38d-0fcbcfd4ffb3,Elizabeth Lopez,United States,2019-12-14 06:25:19,Closed,Low
+31bbe851-fcb5-4bd7-86de-c1e09496aa37,Alexandra Roach,United States,2022-06-28 17:50:45,Active,Low
+d5e96414-1a5e-4f17-9486-9dc744df448a,Christopher Mcneil,Germany,2022-11-30 10:44:32,Active,Medium
+6dbb622f-b5d6-4be1-86d9-304c43820a5e,Amy Mcclure,United States,2022-03-22 09:16:22,Frozen,Low
+0e5caf22-2aa7-4246-a9c2-5d915dccc6ef,Patty Nguyen,Australia,2020-10-23 10:20:49,Active,Medium
+5f0b0595-e5d9-42d6-a556-a58629703b22,Jamie Brady,United States,2021-08-02 19:32:56,Active,Medium
+d3c4f04f-7262-40dd-859c-629c243c7d80,Steven Richardson,United States,2021-08-18 05:13:45,Active,Low
+a19fbf5e-e67c-482e-9608-20f6ae120bfd,Joshua Peterson,France,2023-07-29 07:15:16,Active,Medium
+26f0c844-cf0e-4425-aaac-e1bcc23cc184,Samuel Torres,United States,2021-11-16 17:45:56,Active,High
+bee3edc2-0aa5-474b-ada6-9d26926d832e,Jason Brooks,Canada,2024-11-01 03:46:04,Active,Medium
+7ecb187b-d713-4eed-895d-6435fc84635f,Stacie Holloway,Australia,2019-12-16 00:21:24,Active,Medium
+c129b101-fa22-4df6-8acf-8cd627177b71,Victor Davies,Canada,2022-06-07 21:35:51,Active,Low
+d032dd1c-9189-4910-9846-473d42d029aa,Matthew Spencer,Germany,2020-04-17 11:16:51,Active,Medium
+5bed7c0d-96e9-4dc0-8a58-58a3c9efcfb8,William Bennett,United States,2024-07-24 06:49:48,Active,Medium
+27415806-325c-4ec0-b722-adf6a6d58e42,Daniel Stanley,United Kingdom,2020-10-14 06:41:15,Active,Low
+d661d892-4d1f-41c3-b10c-9564b66f03df,Joshua Duran,Germany,2020-08-12 16:10:24,Active,Medium
+6b1a6b1d-328d-4a9c-96f6-e9f31b881aa6,Angela Harper,United States,2021-12-05 02:04:08,Active,Low
+61c5c3a8-1fb2-4b79-844e-522c8b1111a8,Emily Cain,United States,2022-07-13 06:43:30,Closed,Low
+15251722-22cd-40df-89c3-921c1b917edb,Erica Ellis,Germany,2021-03-12 17:14:52,Active,Medium
+58d8830f-460e-45dc-a4ed-0fb6be3897eb,Michaela Meyers,United States,2021-05-06 00:18:44,Active,Low
+72eb6930-5641-43bc-b4ba-62ccf9bb642b,Tabitha Lozano,Germany,2022-06-06 13:08:19,Active,Medium
+5cc75e6c-3b18-446c-bec2-94c9c8055756,Sylvia Hayes,United States,2022-05-09 00:17:03,Active,Low
+9c2d1ea4-3a0d-4bf5-97f9-2eaae2f7bd14,Brandon Torres,United States,2022-09-26 05:40:53,Active,Low
+81b6470d-e271-47ae-9e8f-067373780a4c,Adrian Caldwell,United Kingdom,2020-09-07 14:42:11,Active,Low
+a7b8d2b2-16ba-4831-ab82-660ca17f789a,Benjamin Wilson,United States,2019-11-03 08:39:03,Active,Medium
+aefa1f3a-c6b2-4655-8883-fd22406b375e,Linda Leblanc,United States,2020-06-24 19:03:11,Active,Medium
+624217f9-697d-4fcb-b885-7da7dd735564,Natalie Flores,Australia,2024-10-29 05:00:52,Frozen,Low
+d9ea2342-eab1-4165-87d3-15d2640f7813,Craig Anderson,France,2023-12-07 12:49:11,Closed,Low
+20248697-7656-4859-b256-3168d78666ef,James Pennington,United States,2022-06-03 07:46:42,Closed,Low
+3f731c03-f8d7-4d0f-97de-c8ada1fd2455,Kyle Wallace,United States,2024-01-03 13:41:50,Active,Low
+d72b90f6-88c4-4a90-94b5-4c8ba94ef0e3,Larry Hernandez,Germany,2023-02-13 10:51:02,Active,High
+34ba4d57-a0c7-4228-b003-28667bc59a9a,Lori Sullivan,Canada,2021-02-13 18:44:24,Active,Low
+56df1e40-5d2f-40ed-bc0f-66695ffeead9,Kelsey Martinez,Germany,2020-11-28 07:16:26,Active,Low
+5af252c2-f2b8-462a-9875-458da89f85b9,James Russell,Germany,2020-08-14 09:49:36,Active,Low
+b5bdf1a8-1eb8-49c8-b70f-9bb85eca5d15,Eric Yoder,Canada,2020-10-13 04:00:12,Active,Low
+f015d64b-5007-4dae-87d8-a07ba3462675,Dustin Russo,France,2022-11-25 17:04:58,Active,Low
+8afd461b-4c07-4159-85af-43af7f251d4b,Michael Cortez,France,2020-04-06 05:37:02,Frozen,Low
+76e77333-3317-4438-ac7f-ae9b26301faa,Brandy Mccormick,France,2021-08-08 07:08:08,Active,Medium
+3af57c44-9cb8-43f4-bf6d-97633b96f545,Jamie Chandler,Germany,2023-09-25 15:02:49,Closed,Low
+7ac8b3a7-314d-4704-a27e-fa57d9b5ff38,Michele Haynes,France,2021-10-14 17:37:07,Frozen,Low
+af0140ad-a2ef-434b-8123-ede8b69b33b4,Steven Lee,Canada,2020-05-01 15:37:34,Active,Low
+623343f2-3e45-4d22-8d0c-3a07af2eefee,Douglas Shah,United States,2019-12-10 15:40:20,Active,Low
+ca33a460-46fa-4df1-89bd-ac637135a918,Louis Roberts,Canada,2020-12-19 14:18:23,Active,Medium
+d9d5765a-cb52-45d8-8bf3-acc69cdcc591,Dana Garcia,United States,2021-05-14 23:00:32,Active,Low
+c54399a9-9252-4257-81ed-44a10f6e20e8,Elijah Ferguson,Germany,2023-05-10 06:00:49,Active,High
+70edb555-c7ca-4b38-ae12-41c7274468dd,Mark Smith,France,2024-05-25 06:07:24,Active,Low
+43712cdb-77f0-4098-b2f5-88a888f30f13,Jacob Flores,United States,2021-11-25 02:39:29,Active,Low
+e047c632-088b-4583-b50a-c77efa00647a,Noah Lee,United Kingdom,2019-10-15 15:20:10,Frozen,Low
+0eb8078c-f3d8-4f10-bc69-3acd928d1162,Anne Dawson,United States,2020-01-02 05:51:48,Frozen,Medium
+111ea82b-c9f2-4ab3-bd6a-3483c75c706c,Michael Chapman,France,2023-07-27 13:23:58,Active,Low
+08d19e11-66d6-49da-82d0-c0ad7a932c25,Kirsten Conrad,France,2020-03-03 19:24:36,Active,Medium
+69141525-e0de-4ba5-b8f5-22672cc7de6e,April Riley,Germany,2020-08-22 05:48:00,Active,Low
+b3daa585-b7ce-4ee5-8b5d-4fedfd4c98d4,Lisa Pugh,United Kingdom,2021-12-12 17:31:22,Active,Medium
+f06e7060-46d1-4fb5-97b6-10a074f85fa2,Brandon Mckinney,Germany,2023-07-01 03:03:19,Active,Low
+d8fe98b4-64c3-457f-8612-0c6b1e925104,Miss Angela Phillips,Germany,2022-06-21 05:47:27,Active,Low
+5a8e0b34-7b92-4bde-84a7-5f3ba5ad3337,Tracy Singleton,Canada,2020-10-20 09:31:13,Frozen,Medium
+22af80d3-494d-4ae0-b70a-314782699531,Linda Martinez,Germany,2019-11-12 02:49:25,Active,Low
+628656f6-a173-4ce8-9daf-f3544b620b89,Paul Anderson,France,2023-01-20 16:42:42,Active,Low
+44368465-c506-4877-b4fb-62514980749b,Steven Baker,United States,2020-05-15 16:34:08,Active,Low
+e3162427-d04c-41a1-9236-84fee0ce334f,Sean Fernandez,United Kingdom,2022-09-23 09:44:23,Active,Medium
+583faa8c-d39d-4038-bf71-493deb5bba6e,Lindsey Brooks,United Kingdom,2023-10-12 18:52:50,Frozen,Low
+8069ea86-42ad-4b06-9615-309ad9a14bbd,Madison Fox,Canada,2023-06-19 07:50:15,Active,Low
+5682ece7-efdc-48f8-b336-d1b0b99bec1a,Alyssa Shepherd,Germany,2022-09-17 08:45:03,Active,Low
+9702762f-ca6b-4fca-9848-36bf8686f54e,Catherine Hays,United Kingdom,2020-03-14 07:50:37,Active,Low
+3bb537e2-a48f-462d-9201-1a745fa4943e,Nathan Smith,United States,2021-10-19 00:03:36,Frozen,High
+459d228e-6a73-4116-aa49-5ec1aa10643d,James Frank,United States,2020-10-20 08:17:38,Active,Low
+c1404a79-4607-4cb2-a793-e27632f7e7ea,Suzanne Ramos,United States,2020-08-23 15:44:15,Active,Low
+8644020c-9a83-45ae-ae8b-06a43ec93299,Nicholas Daniel,United States,2022-01-28 05:58:53,Active,Low
+cc178725-9d26-46f6-a6d3-61a7b7e72fdd,Daniel Hill,United Kingdom,2020-05-14 20:40:08,Active,Low
+a5209306-095f-424a-9db6-e0f3ce5afee0,Daniel Foley,Germany,2019-12-22 04:13:07,Active,Low
+038eea90-87f9-4c03-b171-9efd01c1664b,Allison Barrett,United States,2020-02-12 01:20:03,Active,Low
+fc670f99-5942-4b72-84d9-79beea5fde08,Jonathan Bennett,United Kingdom,2020-11-01 17:38:32,Active,Low
+c24afb38-0498-4013-b6d0-4b3701140778,Christopher Mitchell,United States,2021-03-08 23:22:04,Active,Low
+d4647565-e9ca-4ae7-8657-ed2f94cacd88,John Saunders,United States,2025-02-19 21:35:45,Active,Medium
+a8af809b-6336-42b6-a982-bfd64771fa76,Katrina Miller,France,2023-01-07 01:00:55,Active,Low
+dba67c83-4b50-481d-baae-832f3196055e,Megan Simpson,France,2022-03-15 10:54:28,Active,Medium
+c718d1f7-4045-4a43-92c7-8a19c8cef7a0,Thomas Romero,United States,2021-02-19 15:10:14,Active,Medium
+a609763d-75a7-4c89-8d29-ad4bf0350a14,Andrew Coleman,United States,2021-02-26 07:48:45,Active,Medium
+bc589d6f-25cf-42f8-be0a-e6528bf97a8e,Jeremy Kramer,United Kingdom,2021-01-04 20:41:15,Active,Low
+39374754-76c4-4d89-bef3-f68aff948ae9,David Martinez,Germany,2024-05-22 02:01:55,Frozen,Low
+0696163a-30f3-4786-8334-3bb4f470aecd,Robert Moran,France,2025-04-14 11:35:53,Active,Medium
+4e685394-ad41-416a-8abe-6e7339011ed2,Gregory Gomez,Germany,2022-03-17 00:57:47,Active,High
+0bc829b5-88fe-4714-9183-775ba6e94822,Tony Gibson,United States,2020-08-09 19:05:13,Active,Medium
+4ee5d67b-2f5a-4c4d-9ebb-55309cbfcf5d,Amanda Glenn,Germany,2021-01-25 19:32:57,Active,Low
+2f5d72c0-f6c3-43a0-b250-389f62dca226,John Perkins,France,2024-06-01 18:45:06,Active,Low
+3ca549da-a775-4195-9678-e1fa7adb1552,Daniel Young,United States,2023-09-08 06:39:40,Frozen,Low
+70e501ad-5e8b-4861-860d-f390967f5213,Tracy Garcia,United Kingdom,2023-11-02 16:18:38,Active,Low
+98e925af-68c6-4d68-93f1-50a6af687402,Scott Mays,Germany,2021-03-15 17:06:47,Frozen,Low
+7a17775f-70d5-48e9-a1d3-0f8a060b0fa6,Christopher Parker,Germany,2023-09-07 10:36:13,Active,High
+bf0f6208-ae0d-49e5-a5cb-5a33b4530364,Dylan Burgess,Canada,2020-07-02 06:15:04,Active,Medium
+71e1e3f5-9c45-4f6d-9420-4e9eb4ec7d6e,Daniel Gray,France,2023-06-02 20:36:36,Active,Medium
+11c3d271-c1cd-4dfd-9b07-1b9571af7edb,Jaime Weaver,France,2023-10-27 17:58:32,Active,Low
+4ba585e4-1c40-4109-8877-9043da995a0e,Molly Bowers,United States,2020-07-15 07:29:10,Active,Low
+994ca7c9-1691-4597-a6fd-e78c99b06250,Sherry Krueger,United Kingdom,2020-10-05 18:14:34,Frozen,Low
+523df31f-b28f-4516-bf4e-14b2f8a1c5be,Emily Alvarez,Germany,2022-07-28 16:47:43,Active,Medium
+15adc118-bacb-403d-b529-04e62ca390dc,Olivia Ellison,Canada,2020-06-19 23:26:34,Active,Low
+1a6c7c9b-f24f-45f0-9e21-f7f458be1a4d,Stephen Jones,Canada,2024-11-13 12:23:06,Active,Medium
+c3785bba-36ee-47a2-a7cf-8588a2588322,Alyssa Clarke,United States,2021-06-13 17:13:59,Active,Medium
+22536358-2950-4dbe-b158-67bcd156e1f0,Justin Brown,United States,2022-06-01 18:49:17,Active,Low
+dda86759-b67d-42a4-9435-979a987fe83a,Edward Foster,Germany,2021-03-04 12:56:08,Active,Medium
+5778b616-4d28-4377-af4d-264fd82d96e5,Lori Simmons,France,2020-04-26 21:44:55,Closed,Low
+f359d410-1951-4b52-95df-4dcfb5167c8b,Amanda Glass,France,2022-11-24 12:11:36,Active,Low
+b6ea928c-25f9-4037-9e6f-8b136aeb4cbb,Terry Oneal,United States,2022-08-15 06:04:50,Active,Medium
+55cb6617-00d8-4559-a51e-8e0582452d92,James Nelson,United States,2019-10-25 09:07:55,Active,Medium
+6aa387b4-142c-4fbb-8f41-e767f7679d6a,Richard Ayala,United States,2022-10-18 03:12:34,Active,Low
+cb2183d7-3bb7-405e-bdb6-55f8048818e4,Mary Jones,United States,2020-09-13 01:51:06,Frozen,Low
+fb776a72-2b6a-47d6-bed7-c04d9ecf7013,Sheila Duke,United States,2021-09-13 05:56:57,Active,Medium
+5f824cd8-1f61-4aa3-8f63-3332135fb065,Katherine Williams,Germany,2022-01-01 10:53:30,Active,Low
+275438e7-aad7-493e-ae46-8d689f77a179,Joseph Martin,United States,2021-11-01 16:53:46,Active,Low
+8340efdd-04ee-467b-a1c3-e6151bf9b9b8,Priscilla Wood,Germany,2021-02-09 15:43:31,Active,High
+a6c13d4a-60f3-4ca0-87b6-88468ab4d28d,Renee Reese,Germany,2024-02-19 10:28:53,Frozen,Low
+fea73621-ea82-4810-a6af-23f02a917ca9,Amanda Stevenson,United States,2022-06-04 13:51:52,Active,Low
+cc3fbc6f-d256-4451-8452-b43ba18f191d,Matthew Collins,Canada,2020-01-26 21:02:52,Active,Medium
+b67b3001-dbab-400c-827b-77be6fd34a67,Andrew Martin,United States,2024-09-29 05:57:01,Frozen,Medium
+f3bc1a31-2d21-4b62-bc4c-871eacfd1e9e,Scott Eaton,United States,2023-10-20 17:56:54,Active,Low
+26ac9eaf-feec-437d-94b4-acb333122858,Nicholas Howard,United States,2021-10-18 14:40:59,Active,Low
+ae8085aa-41bd-44fb-9be3-66d52329e02c,Kristina Espinoza,Germany,2023-03-13 21:16:14,Active,Low
+150755c5-9170-4a90-a230-d505435e50ed,Sheena Warren,United Kingdom,2023-02-03 15:49:59,Active,Medium
+04dfdf5f-6f77-470c-8ecf-a2dd7d5ce99a,Glenn Miller,United Kingdom,2023-09-08 23:15:45,Active,Low
+c6e461c5-cedc-4ea1-9dc6-101e601e03f2,Benjamin Hart,United Kingdom,2022-06-09 03:20:07,Active,Low
+65b44930-e289-45d4-9ba7-e8ef97a63cbb,Michael Villarreal,France,2022-04-25 18:39:23,Active,High
+447c8d7e-c300-47d9-b19e-cc12b394f166,Melissa Stafford,Germany,2023-10-03 04:20:11,Active,Low
+453cfdd5-ad98-4a6c-89bc-00aa419a9b14,Zachary Williams,United States,2024-08-07 19:50:55,Active,High
+d976c485-af22-4839-be27-b8927857fe95,Scott Jackson,France,2024-12-15 15:04:54,Active,Low
+89b0b0bf-9a2a-4319-ad56-f1df2272fc55,Emily Schmidt,Canada,2022-10-16 21:07:42,Active,High
+133b97e4-6cd9-4ba2-acd6-b204dc07e5d8,Eddie Chapman,United States,2023-04-27 04:18:19,Active,Low
+6be7ceb1-83b2-43f8-b78f-2f16c03684db,Amy Foster,United States,2020-11-19 23:47:40,Active,Medium
+13a5aec6-0a85-4561-9692-93ca39a7cf47,Kelsey Gomez,United States,2021-06-20 03:27:42,Frozen,Medium
+e6ac6e7e-2650-401a-81f0-03d32fa0e6db,Paula Powers,United Kingdom,2020-01-11 11:28:34,Active,Medium
+d6bea014-03b7-4812-b028-47395d84873d,Michael Adams,United States,2024-03-26 02:05:01,Active,High
+879f47af-458e-43da-89e6-9b59d9797622,Rick Owens,France,2023-10-23 00:07:22,Frozen,Medium
+bec55a65-d4d2-4979-a399-59f63f377173,Richard Travis,United States,2023-04-25 17:40:30,Frozen,Low
+734970cf-64d3-4f81-b714-332cfc5d19c7,Elizabeth Vasquez,Canada,2024-07-18 23:38:17,Active,Low
+834fb7a7-d7c2-4c74-93d7-8445d175dc1b,Dave Ali,United States,2019-11-21 16:18:59,Active,Medium
+d58db51a-dee1-4b43-beef-1b7d07d05734,Robert Miller,Germany,2022-06-27 06:56:29,Active,Low
+cf87fb77-e34d-49d7-bf42-c392534568ad,James Christensen,France,2021-01-15 12:18:22,Closed,High
+fed4fd0d-c75a-4966-98d5-80891ab734c3,Emily Griffith,Canada,2024-03-04 05:46:54,Active,Low
+1a929403-fe05-423f-aaff-f87d3bf20a29,Tammy Adams,France,2021-12-07 12:25:18,Active,Low
+f0441950-5440-482b-b1da-a4485ed2e529,Angela Guerrero,United States,2019-10-08 21:52:47,Active,Medium
+3f062413-1da9-415f-a61f-46c9ac25ba4d,Christopher Page,Germany,2024-06-25 06:21:20,Active,High
+afc64730-df13-4a53-8649-30c27a2e92ae,Sarah Sandoval,United States,2024-07-06 02:53:14,Active,Low
+03203401-3e3d-4c81-b5f9-0d6bd014ccdd,Robert Anderson,United States,2020-07-19 06:56:35,Active,Medium
+10c47f32-8bdb-4815-973f-c0ad6e101c85,Joseph Sanchez,United States,2023-05-05 08:24:44,Active,Low
+6207db28-1621-481a-9815-64900d7cc3da,Jeanette Irwin,Germany,2021-10-13 00:51:32,Active,Low
+a3abe39b-4669-461e-963f-5893a783102b,Tammy Farley,United States,2019-12-25 06:41:05,Active,Low
+1192b3d3-17f2-4473-b06e-eac474af9432,Shannon Parks,Germany,2024-07-21 06:32:56,Active,Medium
+1c9dceda-fad3-4647-be34-9381a4042021,Clayton Scott,Germany,2021-03-23 13:52:04,Active,Low
+45c7ca50-55dc-44fa-b38e-c9ba253f8917,Samantha Frye,United Kingdom,2021-09-12 23:49:47,Active,Medium
+372cbcde-d791-4a1a-b5af-3c99bb647597,John Bush,United Kingdom,2024-10-08 23:59:44,Active,Low
+00810f40-c2cb-482d-b732-d0af4d16cc83,Patricia Herrera,United Kingdom,2021-02-07 19:20:36,Active,Low
+338e9ed2-6106-48ca-bc3e-015c293241d2,Brianna Hester,France,2019-11-12 15:09:33,Active,Low
+f2553087-189d-407f-a02d-bfd4c5008148,Chelsea Raymond,Australia,2022-11-29 08:58:29,Active,High
+7bc396cc-cfb4-45ee-b1da-6a6ec432a86c,Dr. Angela Fernandez,Germany,2021-03-19 16:24:33,Active,Low
+ba1e9b77-10a4-43c7-90e9-f2bd86775cde,Levi Reed,France,2025-04-21 01:07:58,Active,Low
+8c28c964-4d2f-4a77-9396-01284d3ae70a,Robert Mcgrath,Germany,2019-10-21 14:49:14,Active,Low
+b0384a9f-3585-4ad9-9448-f1f9953220d3,Erin Ray,United States,2024-06-01 20:34:54,Frozen,Low
+7d2db09b-2af0-4719-b0a0-13dca4ba9e81,Joseph Haynes,United Kingdom,2020-06-10 10:33:55,Active,Low
+5d957d3c-2490-4b37-a558-234624842cce,Haley Gonzalez,United States,2024-07-29 06:07:57,Active,Medium
+8345e66a-5b6e-4f2f-889b-6b6d023d2377,Michael Jones PhD,United States,2022-06-04 10:19:02,Active,Medium
+0c0f8f01-5eab-4989-9f8c-5a66ce0fbf80,David Moore,United Kingdom,2020-09-14 16:41:09,Active,Low
+f7e5c59c-08be-41d8-b20f-479b5156d6b0,Frederick Hernandez,Germany,2025-01-11 00:07:41,Active,Low
+83274630-edbc-4f1b-b20b-27b20a9f4a25,Anthony Clark,United States,2023-07-01 10:51:54,Active,Low
+1ff209f6-a323-4117-856b-d773c276dd0d,Cynthia Guerrero,United States,2021-01-11 19:53:39,Active,Low
+6b30bb85-2951-4394-8dbe-610e318e1f63,Frank Ortega,United States,2022-12-20 16:52:38,Active,Low
+573bfcf6-76f8-4392-a863-d5d7edd36360,Angela Lindsey,United States,2020-06-01 09:09:00,Active,Low
+cdde7e94-370c-4c15-9547-881c232b5897,Gabriel Ferguson,United States,2022-01-28 14:59:17,Frozen,Low
+46f4e3d2-c4b1-4e59-bde8-09e03ac8c445,Jasmine Hopkins,United States,2021-02-15 01:46:47,Active,Low
+1131d627-a39c-4483-adb3-1ad90be30335,Joseph Thompson,United States,2024-10-10 23:42:19,Active,Low
+1ca7bb3c-518a-45e9-bbb1-420ff20301a2,Kevin May,United States,2022-10-12 18:19:59,Active,Medium
+f6f99b92-2ac6-4d18-b2f8-9d946ccf3d76,John Lee,United States,2020-10-13 13:36:54,Active,Low
+39e23feb-59c9-4851-8887-fd1e34d1b029,Erik Browning,United Kingdom,2021-12-03 00:34:37,Closed,High
+5cd33f13-0995-404d-b494-a72bdbc6aa3b,John Carter,United States,2021-11-18 02:49:04,Active,High
+861e4d75-1d39-48cb-803d-41b10e0864f5,Brittany Kim,Canada,2024-06-18 17:03:45,Active,Low
+84438673-5dae-4faa-97f2-6766dcc4fa3b,John Wright,United States,2020-09-13 12:44:39,Frozen,Low
+01ad48fc-89df-4c72-a6f7-6ed47616387b,Bryan Hanson,Germany,2025-02-07 17:37:34,Active,Medium
+9ea0207a-001e-490e-8eee-eaf1f452ae9d,Michael Romero,Canada,2022-03-13 12:34:18,Active,Low
+d8e4a4b8-abce-44e1-a060-559a241d643a,Jamie Brown,United States,2023-09-16 07:25:48,Active,Low
+c0ae0506-0447-4b4a-ab80-5d9050eae005,Tyler Clayton,United States,2020-04-17 09:47:34,Active,Medium
+116529da-a4b6-41b3-b0bb-acac1b7b9e79,David Butler,France,2023-08-14 19:27:02,Active,Low
+11d1cb29-6888-4cc1-ac10-4ebe082ea418,Brenda Bell,United States,2023-03-17 15:01:08,Active,Medium
+77d1440e-69cd-4b68-8453-0b2ab161e36a,Kayla David,United States,2020-02-12 15:08:16,Active,Medium
+b5e26fca-6952-4490-b1f5-384e437ae470,Kristi Vega,Germany,2022-01-05 02:06:46,Frozen,Low
+03191114-982c-47fc-81c1-a3aa1e679121,Glen Sweeney,United States,2023-07-01 08:27:56,Active,Low
+8ee24fdd-4d1e-45f5-8b3b-847f6d7085b9,Robert Brown,United States,2023-07-30 01:18:44,Active,Medium
+c9af5610-1333-4e78-b966-13ea9de0dc9a,Christopher Austin,United States,2022-01-25 03:59:44,Active,Low
+672048b5-f18f-418d-8d04-815a9bb856b6,Tiffany Shaw,Canada,2021-04-04 21:15:37,Active,High
+f2809a1d-930a-439d-806f-40a0d494cadb,Darren Jenkins,United States,2024-07-14 10:37:26,Frozen,Low
+dcdab6f9-110b-42a5-9c6b-e663fa3d1a31,Jeffrey Lewis,United States,2020-05-07 16:38:50,Active,Low
+ac8628e0-d33d-43b9-acdf-2c7465373d5d,Robert Fuller,United States,2024-05-16 11:44:46,Active,Low
+8dd74c4f-a62d-4620-a9e6-a9ffea3d3d3f,Ariel Clay,United States,2023-11-06 21:27:51,Active,Low
+29d85346-d743-4815-ba98-cc3780c51b10,Maria Johnson,United States,2020-04-17 22:14:04,Active,Low
+8dddb2aa-4dd0-4fd8-a14e-f64860fe27fe,Scott Larsen,United States,2023-06-21 16:39:55,Active,Medium
+6bfedb06-dd92-4a6b-ba2e-c076ebc7b31b,Jennifer Walsh,United Kingdom,2022-09-24 01:47:11,Active,Low
+0cdb8421-02c7-4ddc-bd76-1ed3252bc817,Marcus Bender,United States,2021-06-14 06:53:58,Active,Low
+f12aeb6f-9adf-445c-ae9d-cd1fa0c360e6,Stanley Perez,United States,2019-10-17 10:21:39,Active,High
+f7aaff96-b8cf-42bc-94c4-3e3159d42c23,Olivia Andrews,Germany,2022-12-08 02:08:37,Active,Low
+c387391f-6bac-4cc2-addd-3e14698c0120,Mary Hodges,Germany,2023-02-22 09:22:55,Active,Low
+3e53ac2f-b968-449c-a776-1cb299ee680f,Juan Garcia,United States,2023-07-28 07:43:27,Active,Medium
+cc51681a-fab4-4a91-96af-233918be1b44,Brenda Chaney,United States,2022-06-21 15:54:32,Active,Low
+47440e73-b28b-4d32-8eb8-eaa030a35e5f,Peter Meadows,United States,2021-11-19 07:05:11,Active,High
+7884c499-74f3-4182-a56f-56260ccdc54a,Ms. Sarah Wallace,France,2020-09-08 07:17:44,Active,Low
+c1b9b97b-a8d2-4afa-9981-5b574d84fc22,Emily Jones,United States,2022-05-13 07:18:00,Active,Medium
+3180ba05-a05f-4e78-83a1-c0ad9fee49bd,Cheryl Nguyen DVM,Germany,2020-10-09 12:07:29,Active,High
+f6181ee0-308c-4a8e-bcb3-696cb4a479c4,Danny Luna,Germany,2025-01-25 06:26:39,Active,Low
+91a10893-4223-4869-a155-d18996a68f9a,Tina Jackson,United States,2021-02-11 04:45:26,Frozen,Medium
+aa3ceed7-8c37-453b-8aa0-e3b2c1be5c53,Adrienne Ferguson,Canada,2020-01-12 00:13:51,Frozen,Low
+5e6924b1-c31c-4dcc-9262-d1e74d73ea65,Alexa Calhoun,United States,2020-11-21 11:50:11,Active,Low
+722e1519-1b9b-4fe9-b5c9-34f841db6cb4,Patricia Brown,Germany,2020-04-21 19:24:31,Active,Low
+7d85253f-2994-4cdf-9206-646df777828f,Charles Mccoy,United Kingdom,2020-03-07 02:06:50,Active,Medium
+961c81e9-8b86-418d-961b-68e17e6594c8,Andrew Macdonald,United States,2020-04-25 07:24:14,Active,Medium
+8cc590df-8f1c-4a89-9315-03329775684b,Melissa Williams,United States,2020-09-25 12:02:52,Active,Low
+15bf1a2d-fc09-4885-bc3c-10ccb95c090c,Elizabeth Armstrong,United States,2023-07-29 01:03:28,Active,Medium
+d9bdf2dc-5a4b-4dbe-b2b1-3c6cc62a42c3,John Phillips,United Kingdom,2020-08-08 23:12:20,Frozen,Medium
+3ad256b3-03d0-46fe-a55f-15dc560f452c,Rachel Contreras,Germany,2023-10-17 00:32:56,Active,Low
+55b10fbb-c1de-4859-85d5-f984dea44437,Gregory Shepherd,United States,2020-04-30 20:56:20,Active,Low
+f062d45e-4d89-4cc8-92ff-d5d0d0eccd0e,Steven Farrell,Germany,2020-12-05 22:50:25,Active,Low
+52fbaf85-a77a-4e51-966f-8b398182d317,Benjamin Meyers,Germany,2021-03-07 15:55:04,Active,Low
+6337b857-f577-461b-87de-1ba27d400ea3,Robert Church,United States,2022-04-09 21:44:59,Active,Low
+d84bbafb-8784-407e-8dde-017e896e86a5,Gregory King,Germany,2020-12-23 23:23:21,Frozen,Low
+cdc358e9-6663-4c5a-9924-a241d316e672,Jessica Morris,United States,2021-10-19 07:42:10,Active,Medium
+ae007abd-9dc2-459e-894e-c74194e60164,Dylan Bridges,United States,2022-08-06 18:36:16,Active,Low
+92767cab-bbbd-4774-82ad-b12bada5bde5,Rebecca Deleon,Australia,2022-10-01 17:20:50,Active,Low
+13820bb9-c777-4e52-b040-b3539cce8eff,Dalton Atkins,France,2022-12-14 10:14:56,Active,Medium
+192ecee8-0b9e-4ef9-adac-99bb8a543a77,Brian Clark,United Kingdom,2021-09-10 17:03:28,Active,Low
+dce81612-b7ff-4f17-a520-c0ff388351c0,Jennifer Holland,United States,2023-04-09 09:45:13,Active,Low
+c0a0d28d-3cee-4c05-b4d1-88748881f3c8,Gregory Salazar,Canada,2022-06-21 08:59:43,Active,Low
+6428d78a-9a97-4735-b3b0-1e3b5009674c,Kimberly Hicks,France,2020-07-15 07:55:09,Active,Low
+50be4733-f3ca-4f60-9609-c25736ff0ee2,Christopher Andrade,Germany,2020-06-14 20:28:45,Active,Low
+21a3498d-b94d-4fc2-923c-267ab1e807f9,Jared Villarreal,United Kingdom,2020-11-30 01:49:45,Active,Medium
+6d3b4091-d4bd-4414-a9d1-2bf324e90845,Angela Russell,Germany,2023-11-28 01:20:52,Frozen,Medium
+36d4bbc4-9bbe-40e3-b1d2-74d4c9a12ac8,Mary Taylor,Germany,2019-12-17 17:13:27,Active,Low
+7dafef17-cdb0-4741-a956-13a79dcd1d41,Albert King,Germany,2021-09-03 08:31:10,Active,Low
+29e1964c-5895-4804-b092-2851ee2f3414,Tony Oliver,United States,2020-09-30 13:19:17,Active,High
+725a2088-0561-4a3b-ba1e-e3ba7f58ec11,Jacqueline Pollard,Canada,2023-10-31 05:32:13,Active,High
+9092d46d-6913-423d-bed6-55e1128d4325,Michael Washington,United Kingdom,2023-09-10 07:54:31,Closed,Low
+b38d8d4d-4678-4f10-80d6-aa2da5961567,Emily Anderson,Germany,2022-10-13 23:40:03,Active,Low
+b58459b6-aee9-4103-8fee-38a9f50dea6b,Jamie Hill,France,2023-09-13 22:36:35,Active,Low
+4b51dd0a-6cf2-44a4-b797-d7122f401883,Dennis Grant,France,2023-06-22 20:31:04,Active,Low
+04eeeb6f-227d-4e3c-85dc-ef67f416eb28,Lisa Marshall,Germany,2021-06-08 17:32:57,Active,Medium
+b237892c-2c07-409c-82be-d69de5dfcd1a,Kenneth Gill,United Kingdom,2023-02-02 06:58:51,Active,Low
+17f748d7-e310-4665-baa7-6c0d9d796748,Stephen Galloway,Canada,2020-11-12 21:35:39,Frozen,Medium
+7829d1be-6548-4cde-9034-c6ac5cca58bc,Johnathan Compton,United Kingdom,2021-11-12 21:04:41,Active,High
+4da033e6-4973-4588-b068-8fbd0dbb0e5b,Bailey Williams,United States,2021-06-03 04:29:10,Active,High
+ac16a4fe-6aae-4d9b-b0ac-5f7b9e1530c3,Sheri Cruz,United States,2023-02-11 05:21:58,Active,Medium
+f7ab37dc-bed5-4a60-9258-14011bbc7429,Andrea Davis,United States,2020-09-03 19:56:50,Frozen,Medium
+b4ecfbdf-d8fa-42f6-b5f0-2fd522635637,Gregory James,United States,2021-10-28 05:11:16,Active,Medium
+4622d3d6-c038-4534-a8a3-80f11d83a8f0,Caitlin Austin,United States,2020-12-27 12:12:42,Active,Medium
+eaf61368-f706-4d0e-8e7b-2a0917e812bb,Robert Parks,Canada,2020-04-22 11:37:17,Active,Medium
+732a0d24-a494-4613-be00-8a295e9ff0d6,Marco Ryan,United States,2022-06-01 10:56:00,Active,Medium
+652d2cfd-a33d-457e-8ce0-770383366f3d,Samantha Matthews,United States,2023-02-20 10:32:05,Active,Low
+198d18da-e619-4589-ac43-dc6e0b47631d,Patrick Clayton,United States,2019-10-26 09:09:34,Active,Low
+9045254b-3821-41b0-8213-2fbea24d01e5,Vanessa Lamb,France,2025-04-04 12:43:56,Active,Low
+aa15d10a-acf6-4d05-9b08-41d3a0d76913,Louis Hammond,United States,2021-03-16 15:01:55,Active,Low
+4fda5426-c23e-40b3-9944-6978198e580d,Melody Allen,Germany,2021-08-28 18:09:57,Active,Low
+f5e70bfe-fa27-4784-9689-49fb01535326,Mary Martinez,United States,2020-06-14 16:32:37,Active,Low
+464b685a-68c4-4e8c-a32e-6abe573ce187,Cynthia Bell,United States,2022-09-30 01:10:45,Active,Medium
+2eff9a76-97af-4a71-b937-dd43aa5d9b1d,Tom Martinez,France,2021-05-16 12:29:28,Frozen,Low
+9ea32c13-c0ca-47a2-9767-ad18e7d020c5,Larry Phelps,Germany,2022-09-23 13:30:40,Active,Low
+1c923154-98f1-46ec-87b4-20ec0316fd25,Stephanie Whitaker,United States,2020-01-24 05:51:26,Active,High
+5e1d9ae5-0db5-42e7-898b-c8ea7467ef4b,Matthew Mullins,United States,2024-05-22 16:32:13,Active,Low
+114acd30-8f02-4629-a34d-0e2153b914bf,James Frank,Canada,2023-02-22 19:13:38,Active,Low
+374deccb-cec4-4009-a4b7-3643b91ede7b,Ann Jones,France,2022-09-04 03:10:01,Active,Low
+993c0b54-741c-4d1d-8e1d-c07cf095de0d,Sarah Patel,Germany,2021-04-20 09:47:05,Active,Low
+26ac2a60-5372-43df-90a7-799cbbbbc753,Jacob Kelly,United Kingdom,2024-10-12 09:02:10,Active,Low
+dcdbeee4-69d3-4b7a-9378-2298fb4d3283,Mark Carr,United Kingdom,2021-06-21 04:46:51,Active,High
+ce4c280c-8003-4dd2-97be-0e8232b476d2,Deanna Jimenez,Canada,2022-08-26 18:36:38,Active,Low
+a5fb37c3-98c7-4110-9afd-9fd465a9705a,Tracy Ramirez,France,2023-08-02 11:06:09,Frozen,Low
+0d6dd6e0-1ce8-46d3-8ee2-8d3c79dd8d53,Matthew Carroll,Germany,2021-12-10 07:02:01,Active,Low
+c8f9ad0f-f67f-47f2-8950-53d0c6a50974,Jennifer Robinson,Canada,2021-06-02 15:36:53,Active,High
+0031866b-ad42-451a-9f66-7d1c535b0d98,David Ramirez,Germany,2020-04-26 00:58:45,Active,Medium
+142e1781-cd22-47d8-9f74-49d50afaad91,Lisa Anthony,Germany,2024-03-23 11:48:20,Closed,Low
+60f32731-df9c-4ccb-a9b6-a055579d39e2,Lindsey Fox,United Kingdom,2022-05-23 22:58:14,Active,Low
+5c5f9db5-146b-4aa4-a04c-42757ba88f84,Jennifer Davis,Germany,2021-09-29 21:57:06,Closed,Low
+55d45959-db0d-4a7a-8b11-d879a3e8e1b0,Raymond Manning,United Kingdom,2021-03-25 20:07:37,Active,Low
+c8bff993-42ed-47b6-a1d6-959cf942f78d,Keith Ross,Canada,2023-03-06 06:38:52,Active,Medium
+a1be5104-4137-44b0-986f-5b254472800f,Jessica Harris PhD,United States,2021-11-27 08:04:54,Active,Medium
+fed6981a-ee9d-4911-a744-b5a92d362809,Joshua Williams,United States,2020-11-11 03:05:39,Frozen,High
+49f79294-538f-492c-a840-6a3bb4fa22d7,Rebecca Shelton,United States,2020-06-10 11:34:28,Active,Medium
+f54ffcf4-de7e-4871-bc7d-0761abc46d01,Tasha Taylor,United States,2022-03-01 00:31:20,Active,High
+47f00dd3-e102-40f6-a039-ad7c5adec2fc,Brooke Cross,United Kingdom,2021-06-25 14:10:50,Active,Medium
+619e25fe-6130-4b5a-acd5-b015b884d952,James Marquez,United States,2019-11-06 19:05:49,Active,Low
+16247860-d80e-4a20-bfdd-d31814789ef7,Steven Carter,United States,2023-03-19 23:48:56,Active,Low
+6d61f850-28fb-4ac1-ad99-690af69af47d,Richard Nixon,Germany,2024-05-13 23:50:47,Active,Low
+9083b92f-0c28-4a64-b531-bf7699ecdd3b,Brenda Jackson,United States,2023-01-17 18:18:06,Active,High
+4d5c869c-5ffd-4d2f-8ea1-7995279111f8,Roger Bright,United Kingdom,2021-06-01 00:23:28,Active,High
+6e9c8ab2-d66c-4257-b89d-eac1e3d53f25,Joseph Ramirez,United States,2021-03-17 15:54:31,Active,Low
+db617bad-37be-4d3b-b9bb-32eb1f0a0b30,Marc Abbott,United States,2023-07-11 12:07:22,Active,Low
+5ccbd7a7-8128-48c9-92db-d7f98b48e02b,Michael Gill,United States,2023-05-04 03:55:44,Active,Low
+ef85e416-177c-4da7-84b9-1f8443bd2412,Philip Ritter,United States,2024-11-04 05:28:55,Active,Low
+f5c988de-ad98-494b-a2d0-027c53ec7b02,Aaron Edwards,United States,2023-11-25 06:18:03,Active,Low
+ceba7ed6-523f-4306-acd4-a1b268dbd78e,Michael Rodriguez,United Kingdom,2023-12-01 07:00:41,Active,Low
+f39b6f03-7740-45cc-ab3a-ae8933f4929c,Patrick Pacheco,France,2021-01-31 19:56:53,Active,Low
+ed21479f-d3f3-4863-8148-e1fc306ed2d7,Sherry Edwards,Canada,2023-09-22 05:44:23,Active,Low
+f2ee7827-2757-49aa-9535-97fdd027a52b,Jennifer Elliott,Germany,2020-11-11 10:18:51,Active,Low
+dfe3d835-81b9-43b6-a49a-30cb460a18d5,Kevin Nguyen,United States,2021-11-11 06:41:42,Frozen,Low
+65af57c6-52c6-405e-89b7-eb94760069c0,Jeremy Harrell,Germany,2024-11-14 10:15:10,Frozen,Low
+89222e7f-45a8-4692-adb9-ac51f91dabd8,Deborah Ramirez,United States,2020-07-22 00:11:55,Active,Low
+72c06322-185e-4f14-8f2d-595d8134e7c7,Jeremy Peterson,Canada,2024-02-11 18:59:12,Active,Low
+a5e08e3c-be9e-472a-b5f2-aab367ccbd66,Melanie Scott,United States,2019-11-30 17:44:35,Active,Low
+2e04c29a-dd84-4056-8fd3-ad5969b71aae,Brian Rodgers,United States,2022-04-29 21:55:00,Active,Low
+94d9fe8e-7caf-4514-ba71-e981d0ed29ce,Melissa Pham,United Kingdom,2025-05-19 05:25:13,Active,Low
+d56f2414-90ac-4007-ad45-12490e594cf4,Destiny Walters,United Kingdom,2024-04-16 20:40:17,Active,Medium
+12e1b640-8a46-45ae-b948-93269e3f54b5,James Smith,United States,2021-08-06 23:37:38,Active,Low
+e2d083b6-656c-490f-b8d4-44b763fed18d,Donna Salas,United Kingdom,2020-12-31 00:49:43,Active,High
+e231d925-7c84-4a40-bb43-948167729f55,Paula Pena,United Kingdom,2022-12-27 20:02:27,Active,Medium
+e7f5fa42-765a-4767-b256-8d66e4464c25,Nicole Wilkinson,Germany,2020-12-15 21:19:02,Active,High
+be5356f0-69dc-452f-8019-91083fd0b7a9,Lucas Berger,United States,2023-03-19 01:21:50,Active,Low
+d4ffe8e3-9892-4109-a9cf-e4ff2cbbb294,Nicholas Boyle,United States,2020-03-15 12:57:23,Active,Medium
+5d1c3422-c33d-4e54-8dc3-9161a2b0b4e3,Kathleen Hanson,Germany,2021-02-17 22:15:41,Active,Low
+763698d2-e4a8-47c6-8361-21999f42b869,Dalton Brown,Germany,2021-07-10 20:46:33,Active,Low
+826b75c5-7df6-4a5d-9cb9-8de4def06c8c,Christina Goodman,United Kingdom,2023-03-27 04:30:15,Closed,Low
+47d80195-63de-4498-85f7-a890b7215b5d,Joseph Saunders,United Kingdom,2023-08-20 22:33:45,Active,Medium
+5ee7eb19-a653-450a-89c0-1d2d6b80507b,Rebecca Taylor,United States,2022-12-30 01:37:19,Active,Low
+4e645c05-917f-42b4-a79c-20ed08a90286,Brandi Riley,Australia,2024-02-29 07:10:42,Active,Low
+68436b52-897b-4730-93cf-453d1dfc247f,Edward Stephenson,United States,2021-12-03 15:26:41,Active,Medium
+7a95edc8-ad25-47ba-9a6c-af7273b4f37c,Caroline Brewer,Australia,2023-06-17 12:05:35,Frozen,Low
+9362d158-8243-4b43-b3bd-2305c0b02313,Christian Lee,United States,2023-09-18 01:12:49,Active,Medium
+e9c231b8-268d-4b9a-a3fb-d484bf21b35b,Crystal Strickland,France,2020-06-26 09:41:01,Active,Low
+cabc467f-ee67-4f26-b980-2922940c34b9,Dana Torres,United States,2024-05-05 12:54:53,Closed,Low
+cef45298-1296-4e83-bbf4-b09abd2bf1e7,William Shannon,Germany,2023-12-07 21:35:37,Active,Low
+3bd42850-be05-417f-897e-a578c268be6b,Frank Ramirez,United Kingdom,2024-04-22 05:34:48,Frozen,Low
+5a7be86c-cbe5-4446-9b73-618eaf58289f,Veronica Merritt,United Kingdom,2020-10-20 11:27:56,Active,Low
+613e8165-595a-40b8-9618-2cc663c119c1,Kimberly Bender,United Kingdom,2023-06-21 01:30:29,Active,Low
+9f9028df-47e8-4fcb-89fb-87c1e271f772,Amy Ellis,United States,2024-06-20 04:25:35,Active,Low
+325e2288-d5a8-472f-81ea-52919a977db2,Phillip Browning,Canada,2024-08-09 03:26:59,Active,Low
+7a45e366-1a76-4c25-9a41-88c1a35415d5,Patricia Williams,Germany,2023-08-04 19:32:46,Active,Medium
+02c3a300-6c3b-4918-ab5a-7c546c6c2f84,Steve Burns,United States,2019-11-14 22:06:20,Active,Low
+f7d7ef4d-87bb-4763-b2c8-01fc894c8911,David Green,Germany,2022-03-26 16:29:06,Closed,Low
+857b5bcd-8f69-49a2-8e47-921b98558de7,Nicole Williams,France,2020-01-03 17:50:19,Closed,Low
+de59ec9d-ec9d-4097-b47e-71a828404daf,Jimmy Kennedy,United States,2020-02-01 23:03:42,Frozen,High
+7e7c5f1c-88cc-4b3e-9440-d055a3b8191b,Gabriel Johnson,United States,2021-06-10 21:21:22,Closed,High
+f3330e25-2ec8-48fe-bb0f-ee3714be8570,Alicia Tran,United States,2020-09-26 16:47:57,Active,Medium
+84a4ef4a-b092-490c-9070-b65492957216,Christopher Savage,Canada,2024-07-06 02:20:41,Active,Medium
+9eb54c4d-2442-4e4d-a259-c73a329d2fc8,Christian Dunn,Canada,2020-01-06 06:11:40,Active,Low
+2ed26a1b-92ed-4e72-8278-0791fd4ef86c,Christopher Hendricks,United Kingdom,2021-11-24 20:35:19,Active,Low
+9d02c669-893e-4751-a5e9-a7b9df48a6f5,Ray Rich,United Kingdom,2021-10-11 22:19:43,Active,Low
+88048f7e-905a-44f2-96c4-6b0a660b6c59,Joseph Valentine,Germany,2020-06-15 17:08:24,Active,Low
+42fbce30-2068-4783-9d22-00df49dcc1f7,Michael Wise,United States,2022-02-03 04:03:25,Active,Medium
+3cb9fb6a-c2ec-4566-bd69-ff7511a71ef4,John Mccoy,France,2024-05-17 16:00:21,Active,Low
+eb2f5ef5-8614-4f12-a21e-bb94be5ebc27,Warren Mendoza,United Kingdom,2024-06-15 04:34:24,Active,Low
+249d7167-a4f2-44af-9f04-3fee4559e323,Jacob Miller,France,2023-06-06 00:28:51,Active,Low
+bc0b44c9-8e49-46d7-883b-8d0afca7468a,Michael Brown,Germany,2022-09-04 10:44:23,Active,Medium
+7766f3a7-6c6e-4e17-b656-486a4ffd483e,Phyllis Lee,United States,2023-05-30 04:51:06,Active,Low
+38a20397-bd32-46ce-a13c-d5e4a5a311b7,William Gibson,United Kingdom,2021-09-28 13:04:02,Active,Medium
+90b48ea8-0a60-49b7-ab99-b4641aa22948,Tanya Smith,Germany,2021-12-24 02:37:04,Frozen,Low
+64a1eeef-d746-41b9-afd8-b2f8ade672dc,Tammy Hayes,United States,2023-03-05 10:06:33,Active,Low
+dd4a9219-b481-4616-bf5e-3934089ce67b,John Smith,United Kingdom,2020-11-28 02:45:02,Active,Low
+dec9f507-16b4-4b59-9221-01431fb21ad5,Elizabeth Preston,Germany,2023-07-13 02:57:13,Frozen,Low
+114d75ae-ae3e-44ba-9071-7d47f4405c59,Patricia Greer,United Kingdom,2024-08-27 08:52:34,Active,Medium
+89111d6b-bc30-4016-b817-92682fbba683,William Hooper,United States,2023-04-27 04:10:56,Active,Medium
+54a0a324-ba11-4fe8-89e7-173f27fcfa69,Lisa Bowers,Germany,2024-02-12 16:27:55,Active,Medium
+c12c8f6f-a37b-4e8d-be30-cd10626d8a14,Maria Stephens,Germany,2021-04-08 14:06:26,Active,Low
+3ca2c6f6-e61a-4038-8de1-41f1e19e4233,Evan Phillips,United States,2023-10-15 18:27:08,Active,Low
+d1e10400-81bf-4fb9-97fc-d30a6bd98d0f,Jennifer Smith,Germany,2020-07-24 08:44:39,Closed,Medium
+9cc7d2cf-e930-4d83-91c8-5c6d66961dab,Dylan Hall,United States,2021-04-28 18:25:08,Frozen,Medium
+d8b2608d-3fca-40ec-8413-49df4b9fce45,Samantha Hardy,United States,2020-03-03 14:51:26,Frozen,Low
+6bdd8050-8fc7-4e12-9543-2b5b5b7a8f13,Patrick Shaw,Germany,2019-12-30 09:05:35,Active,High
+275b09a6-8f81-471f-8882-f0a573c1d15c,Christine Parks,France,2020-05-29 04:43:10,Active,Low
+39b077c3-f367-4ce3-8ae3-fd68880685bc,Linda Mcintyre,United States,2021-07-07 04:03:24,Active,Medium
+fdcda673-dce3-42b8-ace2-2020db1b535b,Todd Gibson,Canada,2020-04-20 17:18:07,Active,Low
+b89a1c0a-5cea-4d5f-b7a3-0d8bdbc7b820,Shannon Hall,United States,2022-10-11 13:59:50,Active,Low
+49a4a038-26d1-4f69-95a3-53550f4780cb,Angie Nelson,Germany,2023-07-12 00:44:45,Active,Low
+6ebc1aee-bd53-48dd-a91d-7647857abaca,Anne Patton,Australia,2023-03-22 12:39:09,Closed,Medium
+4d0905c8-a76c-42b5-aae4-d679748f4d54,Joshua Cook,United States,2022-12-13 05:14:17,Active,Medium
+db996fab-597b-4d27-8a57-b0142ac9ad60,Kathryn Smith,Germany,2023-12-21 13:19:46,Active,Low
+2a039412-97ea-4a2e-8fe4-899037336dc5,Brittany Kim,United Kingdom,2023-11-14 07:52:29,Active,Medium
+9eea7e53-9702-4c9c-9400-5a6a05ccbccd,Joseph Krueger,Australia,2020-10-25 22:09:23,Active,Low
+97b6728a-49c9-4cd5-9dbf-cc416019c19d,Toni Johnson,United Kingdom,2021-07-24 18:13:28,Frozen,Medium
+afc0a2b6-f27d-4210-8d06-65775e508db0,James Powell,Germany,2024-02-25 09:13:33,Active,Medium
+4fd52181-ebf9-42f9-9482-1b06a393bf4f,Ryan Johnson,United Kingdom,2024-07-23 07:21:33,Active,High
+02939556-dee8-43e3-adf0-c9cd77c77a06,Stephen Mccoy,France,2020-12-09 07:32:10,Active,Low
+dcd791d4-2a03-4c08-8a5f-0f32146310e5,Stacy Ramos,United Kingdom,2022-05-10 09:56:11,Active,Low
+02b4602d-c648-4d84-b909-fd75ef6fba87,Sandra Morales PhD,United States,2024-04-15 17:54:13,Active,Medium
+e6bff350-ba52-4b17-ae92-9beb9e5ae397,Randy Patton,Canada,2021-11-22 05:33:06,Active,Low
+0b5a54fd-1105-4213-8fbb-f10398171a1c,Evelyn Martinez,Australia,2023-10-26 09:56:13,Active,Low
+52cde5be-5e4c-4b30-ba8c-9c26d47ad576,James Horton,United States,2023-05-31 04:29:32,Active,Low
+f81ed0e8-9a5d-49ac-b82e-8502cd5e4e39,Robert Arnold,Germany,2019-12-02 12:01:12,Active,Low
+ea23be1e-e45d-4e48-81a1-75833bf0bade,Ronald Shaw,United States,2022-02-26 18:57:47,Active,High
+b7237c23-3ebd-4d43-957e-3eeca0d87608,Martin Khan,United Kingdom,2023-06-22 09:59:16,Active,Medium
+94ab0070-413a-46ca-b778-f9b71efb3a8f,William Ali,Germany,2024-05-09 05:59:09,Active,High
+000970ab-bb47-4008-91f3-9b9302c4d6de,Tony Villanueva,Germany,2022-11-07 11:04:17,Frozen,Medium
+27aeee84-1ea3-4cdd-9889-f5692f40d662,Justin Marshall,United States,2022-07-27 01:12:31,Active,Low
+d9c5bd41-c157-440d-ae56-9493f13ae778,Daniel Nguyen,Canada,2024-06-21 20:40:06,Active,High
+33707130-e35b-4217-9bb1-49c8745868a8,Candace Smith,Germany,2021-12-22 07:46:54,Closed,Low
+35ee810d-e377-4179-bd02-db34c71fd38e,Jesus Brennan,Germany,2024-05-29 05:02:37,Active,Medium
+32fee811-f505-4d2d-ac31-ba6f4c84576c,William Prince,Canada,2024-04-01 00:05:55,Active,Low
+540610a8-2bd0-473a-94f3-d8ea53fe1d0e,Ryan Schneider,France,2019-10-13 13:35:28,Closed,Medium
+7e9b51cf-adc2-48bb-bc14-33775f723f26,Victoria Chapman,Germany,2020-12-17 15:21:51,Active,Low
+098fef3b-8487-4df7-aaee-e44e71dc0fb0,Sandra Williams,Germany,2021-01-26 03:31:57,Frozen,Low
+4f101436-33df-40bd-830f-ed82a2b1cdc3,Kaitlyn Skinner,Germany,2023-07-28 06:22:07,Active,Low
+caa215b7-5762-47a5-9faa-649b16198424,Matthew Collins,France,2024-07-30 00:22:47,Active,Low
+1a55cebd-1b01-43a0-9e5f-13538e74996f,Thomas Baird,Germany,2021-06-08 15:21:13,Active,High
+6d3e529e-37b6-48e2-8115-febfce1a3801,Jeffrey Stephens,United States,2022-02-04 01:55:41,Active,Medium
+5f4f9c3d-4bf6-4e75-a3f1-5567f93465b9,Allen Avery,United States,2022-07-14 15:22:15,Frozen,Low
+cdacf8a3-f425-46c6-ade2-805bbec54366,Jeffrey Cook,Canada,2020-06-04 08:24:49,Frozen,Low
+ae56cdaf-5783-45de-ac96-61d64b60d3a4,Jennifer Gutierrez,United States,2021-11-08 23:33:16,Active,Medium
+edbe97c0-6545-46d7-893a-55737b136ddd,Cassidy Jones,United States,2023-10-11 16:27:18,Active,Low
+7aa04f1b-3645-41b8-932e-34bbf34177d6,Laurie Baker,United Kingdom,2020-03-26 15:50:43,Active,Medium
+e81211ea-1113-4fac-ad92-4aa332c441c9,Dr. Michael Cruz MD,United States,2020-08-29 08:43:51,Active,Low
+9cae5a01-9b34-42d9-af48-3051ff8cceb8,Andrew Haney,United States,2021-09-20 15:17:13,Active,Low
+a265a7d8-cab7-4668-91d9-4fd6a44ccffb,Daniel Watkins,United States,2024-02-22 19:25:08,Active,Low
+6e37b5e2-34f6-45e4-acc5-23587e49ab08,Jerry Griffin,United States,2022-12-10 16:41:56,Active,Low
+ee2a5876-2e28-4ea8-be0f-ab5c811c7510,Melvin Newman,United Kingdom,2023-04-21 15:14:04,Active,Medium
+3a1cd1bc-db63-457b-8f28-1e847cad1002,Alyssa Hickman,United States,2021-08-09 09:01:57,Active,Low
+9ee55c6e-f6a6-4fe0-bcf3-30ca732d563c,Michelle Hicks,United Kingdom,2024-09-08 13:34:34,Active,Low
+051d97d4-86d1-4a37-b526-ce89d0bd0a07,Carolyn Anderson,United Kingdom,2022-01-15 01:19:23,Active,Medium
+753263f1-0c11-4878-814f-ab0d030a7732,James Chambers,Germany,2024-10-21 17:57:04,Active,High
+0d03ddd5-0f50-43f6-b7c7-b803b9697dac,Maureen Caldwell,Germany,2022-11-21 21:39:06,Active,Low
+5c8507d2-b344-48b9-b156-ec9661f4d54a,Kayla Velasquez,France,2022-07-17 08:13:36,Active,Low
+b0ed7427-f918-42d0-a9bf-e76533885fac,Michelle Palmer,United States,2020-10-31 08:12:54,Active,Low
+b059a657-33b6-42d5-91e7-3accdb980950,Emily Montgomery,United States,2021-08-20 21:07:16,Active,Low
+6f41ae95-2bdc-4eee-9b39-415625028733,Susan King,United States,2023-01-09 06:09:40,Active,Low
+39046818-2b4e-4ca2-8866-26f3efa926f8,Douglas Gray MD,Germany,2022-03-17 14:50:52,Active,Low
+3d89d7f5-3277-49c0-9ef0-552a2d0bbbf3,Misty Smith,United States,2021-08-16 05:47:21,Active,Low
+72194f73-812f-490a-87b4-35806bc579b4,Whitney Cain,Germany,2025-01-09 13:32:32,Active,Medium
+27536349-dd24-46d8-bce1-30a37851860f,Tonya Pierce,United States,2020-02-08 23:58:27,Active,Low
+1f3b96a8-61aa-43dd-be20-6a5c453fc5ab,Anthony Wood,United Kingdom,2020-09-05 03:59:21,Active,Low
+fa12f0c6-33ef-4b3a-846a-e51d93014147,Shelley Craig,Canada,2019-12-09 06:38:28,Active,Medium
+69eec6d8-afde-487d-ad0d-fca168d9a0f8,Arthur Clark,Germany,2024-04-26 20:25:30,Active,High
+f0a43bbf-7382-47b9-999e-8b603c2c7826,Tyler Bailey,United States,2021-03-16 03:45:17,Active,Low
+3f68e131-b8c7-4d22-a69b-cd5ca7879bb1,April Mitchell MD,France,2022-08-08 08:48:33,Active,Low
+c65c278b-36fd-4295-bf5d-14cd05fa96de,Jeffrey Wallace,United States,2023-07-31 13:54:45,Active,Low
+07f85943-6092-40e5-9eff-10dc116988d2,Jeffery Ramos,United States,2021-06-22 12:17:46,Active,Low
+3ea86c43-9ba8-4703-b752-195f21b058af,David Jones,United Kingdom,2022-06-19 09:03:49,Frozen,Low
+b459da1e-10d4-404a-9262-fa7d09a3db70,Jennifer Cox,United States,2021-05-17 18:49:30,Active,Low
+7e625bb3-a35a-473d-bdb6-b669b7be7d92,Julie Cole,United Kingdom,2019-11-19 17:32:57,Closed,Low
+5f8cec85-6a9f-4568-91a9-b93b1cb2062c,Michelle Tran,United States,2020-03-11 16:10:22,Active,High
+21d37744-19a9-4d69-8cdf-4291b41c4137,Christine Rogers,France,2022-07-10 06:13:21,Active,Medium
+05f8b3a4-66fc-494f-b972-d432399f03c2,Robert Russo,Germany,2022-11-07 22:24:52,Active,Low
+a9eecdd1-835c-45fe-9ede-a010568025e1,Joseph Crawford,Australia,2023-01-08 11:51:57,Active,Low
+ce004fa0-6713-4ced-a19e-25696123408f,Lindsay Andrews,United States,2024-05-07 09:59:33,Active,Medium
+27edcbd5-39eb-4132-81fe-7b7256f6133d,Brian Middleton,United States,2022-07-15 03:00:06,Active,Low
+4972e6e6-910e-4bb0-9329-8a85a76f6527,Kyle Morrow,Canada,2020-08-20 16:49:11,Active,Medium
+f455395b-e2f8-4838-b8d9-d36d2afff3a7,Vanessa Rice,Germany,2024-03-30 23:38:40,Active,Low
+2a21739c-347a-4e7e-ad92-7c46a269668b,Darius Morris,United States,2022-08-14 02:33:24,Active,Low
+4346822d-3fe3-4320-98b0-098a00976785,Patricia Rivera,Australia,2020-10-20 21:05:41,Active,Low
+65fd1ca4-76c2-4f46-a30b-2437d4853f70,James Valdez,United Kingdom,2021-12-08 04:39:52,Active,Low
+5eacfdfe-06f8-4f0f-89e9-bb6da68d4197,John Gutierrez,United States,2024-05-29 14:37:23,Active,Low
+8fd97b38-1192-471f-9780-ff84432b1d9e,Michelle Nolan,United States,2020-07-04 20:04:23,Active,Medium
+e44326f1-e0a6-4255-a1b2-8636c0909381,Alexis Mitchell,United Kingdom,2021-06-16 12:42:15,Active,High
+6417c67b-b3e3-4c2e-9028-93903132ba50,Kara Boyer,France,2020-04-20 02:42:53,Active,Low
+c0004708-ed1d-4fa5-957c-42f62c9f63fd,Jenny Sullivan,United States,2023-01-17 01:58:22,Active,Low
+b3f5e2a4-1a37-445b-a0e6-30beb14e27fc,Omar Foster,Germany,2019-10-31 07:07:12,Frozen,Low
+0043ac2e-8dd2-42bd-a5ff-1884915fa0b8,Michelle Burch,United States,2019-12-12 01:45:57,Frozen,Low
+50d02fa7-f725-46f4-bb3a-91686911c486,Kimberly Carr,United States,2024-05-30 09:51:04,Active,High
+a0517b65-c91d-4af4-aa09-6e9e23095d4e,Kenneth Brady,United States,2020-11-19 01:29:30,Frozen,Low
+1fd38360-2447-45fe-b637-61ab07534683,Elizabeth Gibson,United States,2020-09-14 23:19:54,Active,Medium
+7d88e950-cf32-462c-b240-17c6fee3a5a7,Mr. Seth Watts,United States,2021-02-19 03:05:47,Active,High
+3b2dff48-4b1e-4160-b20b-92e3f6e16330,James Campos,United States,2023-01-31 08:48:02,Closed,Low
+df192ded-7683-46a7-8303-cefa29457475,Brittany Wright,Australia,2022-02-14 07:24:17,Active,Low
+f94ff3e1-95a2-4fef-9289-e1bae38bfcf1,James Gibbs,United States,2021-09-24 10:19:47,Active,Low
+73acd6eb-6389-46cb-b2f6-611da5f1c851,Alexis Oconnell,United States,2023-08-27 11:01:06,Active,Low
+34c7157d-33cf-4f78-aec3-e967c9694467,Lori Sullivan,United States,2019-12-24 04:54:10,Active,Low
+de69f9a5-93f0-4087-92b9-ed4e11383ffb,David Henry,United Kingdom,2020-04-28 01:46:59,Active,Medium
+f06838c6-4352-4a9d-b64c-7647407769f1,Danielle Butler,Canada,2020-05-03 10:07:29,Active,Low
+b46ef309-34ac-4695-9a62-b24d53060fc7,Nicole Rojas,United Kingdom,2024-02-22 13:49:04,Active,Low
+fb1a79c6-53c4-4a24-91a1-3c55aacb3e96,Christopher Lawson,Germany,2020-01-26 16:49:26,Closed,Low
+2b7def8a-af3c-42f2-8272-9d2491207a2d,Jenny Schwartz,Canada,2021-12-13 17:15:34,Active,Low
+aff0efb4-5922-4705-8568-df52541109a1,Kimberly Hunter,Canada,2023-03-18 18:15:00,Active,Low
+5edb37e0-6691-44ad-a87b-00be548a75bd,Kenneth Higgins,Australia,2022-04-10 15:54:47,Frozen,Low
+19c0790a-118a-4ff3-9762-b09e04c3d5b6,Kelly Todd,Germany,2023-09-05 15:14:36,Active,Low
+2a362be1-e8cf-4de1-b84e-9ea7d4f059af,David Moody,France,2022-12-29 20:29:28,Active,Low
+0bef4900-1bd9-48ab-b7ec-20b68219af5f,Anthony Jones,France,2022-09-22 08:55:30,Active,Low
+df936452-0974-4f34-9042-85f44dcc9f93,Samantha Peters,Germany,2022-04-13 16:57:36,Active,Low
+d0bb67f5-edbc-4317-b26e-82478d60f492,Jessica Graves MD,Australia,2024-12-31 05:54:08,Active,Low
+a8d2dea7-8794-49d4-b26e-4e8caa4d0cf2,Stephanie Garcia,United States,2021-07-12 07:01:46,Active,High
+c23b5410-98a7-4ad2-b2c3-f1707de65c05,Michael Chavez PhD,United States,2024-07-16 23:04:02,Active,Medium
+1378a147-0efd-40ef-bf92-17eee65061eb,David Lynn,United States,2019-12-15 09:50:20,Frozen,Medium
+6606b9c5-1b87-410b-a28d-9b02c2ca35b6,Wesley Pacheco,Canada,2022-06-29 08:25:23,Closed,Low
+a4d12d26-e06d-4af2-8cdc-0b0471d14353,Sarah Larson,France,2021-05-27 22:19:13,Active,Low
+49acc90f-5cb3-4c16-bce0-896bda47a506,Karina Moore,United States,2023-09-29 10:52:27,Active,Low
+f2ab3692-f806-4efd-9112-feeb98a1b1d1,James Hicks,United States,2021-06-23 22:36:29,Active,Medium
+3a12a1dc-a254-464f-8fe9-aa72c89d431a,Ryan Bennett,United Kingdom,2020-04-24 14:32:54,Active,Low
+8561431e-0f85-4d2b-a065-65197bb738f5,Angela Davis,United States,2023-12-14 21:00:36,Active,High
+853eb169-0d9e-4f14-82ce-2e273e27e3a3,Ashley Peterson,United States,2020-02-04 10:34:44,Active,Medium
+fc5f854b-20ce-4229-9057-f49b7d866a71,Miss Sharon Thornton,United Kingdom,2023-06-09 16:48:08,Active,High
+062db291-27ab-4132-aab3-5c71da47e713,Jackie Chavez,United States,2023-12-21 15:05:46,Active,Low
+c238a57d-58be-41c2-9aa6-3d49a2ff7da5,Christina Stafford,Germany,2020-09-13 10:59:54,Active,Medium
+18a1a444-e198-4cec-915c-0391ee5a5523,Angela George,United States,2021-09-09 20:52:45,Active,Low
+c56c6b22-e661-4219-a33d-42e5a7001910,Olivia Baker,France,2022-03-10 21:17:11,Active,Low
+650b15a7-c49c-495d-b3fe-7a22575bcc07,Deborah Smith,United Kingdom,2021-11-25 23:28:29,Active,Low
+7514bec5-13a7-47e6-ba61-dcf8157688a9,Michael Adams,France,2021-01-24 21:24:34,Active,Medium
+523e273c-1209-4755-b3c3-76170185d293,Sarah Thompson,United Kingdom,2023-04-07 18:51:31,Active,Low
+bef700f7-287a-4ab4-8076-a73b6d2be759,Darrell Ashley,United States,2020-09-13 00:51:05,Active,Medium
+35b06bb7-7a62-4897-8c41-7043d8932bf4,Amanda Peters,Canada,2024-10-13 16:24:28,Active,Low
+53c1a357-64d5-4dbc-8a39-be955417ddc6,Matthew Gibbs,Canada,2023-03-08 09:09:45,Active,Low
+77987745-103d-45cc-9d1b-293e29aac94b,Yvonne Stewart,Germany,2023-04-27 21:38:07,Active,Low
+4c94e20c-e247-4136-b848-f280c51a7785,Andrew Oconnor DDS,Germany,2022-08-28 12:54:06,Active,Low
+129c5307-22ec-4bb7-a03f-adb68ebde89d,Michael Walker,United States,2024-03-09 03:44:00,Active,High
+18119441-788f-4550-b793-05b2cc06e778,Victoria Stone,Germany,2023-11-25 17:44:46,Active,Low
+a9832305-7c9d-4144-a7b7-29c710738374,Karen Gutierrez,Canada,2021-12-01 13:59:25,Active,Low
+3c1ad566-0240-47c7-90b9-d2c2eb651bea,Michael Webb,United States,2024-04-18 18:34:04,Active,High
+8b49c2c5-fcd7-43de-a96a-7a326392a986,Robert Gonzales,United Kingdom,2021-06-05 09:08:27,Closed,Low
+bc499b11-6a9d-4124-a42d-8b2b54dab701,David Lucas,Canada,2020-10-18 07:40:06,Active,Medium
+2d2e9b35-7abf-42bb-82e3-e66b4d088640,Jennifer Coffey,Canada,2021-04-04 14:59:27,Active,Medium
+ba14b07f-698f-438a-bf7a-220ba54b5e2c,Emily Arnold,Canada,2021-02-22 23:23:00,Active,Low
+2a430a4a-9e20-41c7-be4e-5a4275f5921a,Douglas Parker,United Kingdom,2020-12-20 21:06:21,Active,High
+c03d8b83-087d-4d83-a993-3d2548d7516c,Eric Strong,Germany,2020-07-12 23:25:18,Active,Low
+0a678269-1431-40e7-a302-b8465a1c0b54,Dawn Glover,United States,2024-05-27 19:31:36,Active,Low
+ba40c490-64ea-4151-ba7a-13d67f44e4d0,Michelle Reed,United States,2021-01-05 08:18:53,Active,Medium
+215965b8-403a-4b62-978c-a5bf5fdb8b07,Gail Morris DVM,United States,2023-10-31 13:35:19,Frozen,Low
+ace6ba43-e2c9-4a5a-b772-f8a1f1c059cd,John Williams,United States,2021-08-31 00:03:30,Active,Low
+1e0b9b72-ea42-488e-a526-5207fcc3736c,Dana Walsh,Canada,2021-06-04 15:19:28,Active,High
+aac0f952-1116-42fe-a0b2-3f417d1ad71d,Christina Valentine,United States,2023-05-15 23:04:53,Active,Low
+cba213d7-d404-49cc-9938-6256961459bc,Donald Hendricks,Germany,2023-01-13 10:48:03,Active,Low
+1d0cede4-288a-49ad-b60b-52723110c578,Lisa Morris,United Kingdom,2023-07-15 09:08:59,Active,Low
+5238a773-b1b4-4afe-892f-b3b493d5b9d2,Laura Rodriguez,United States,2021-06-05 16:51:12,Active,Medium
+7ceda896-0f22-4b13-b104-036e61b5ebeb,Amy Henderson,United States,2020-10-09 03:25:42,Active,Low
+746075af-a7bc-489c-873d-00e03a1eb7de,Lauren Huang,United States,2023-06-16 07:19:07,Active,Low
+97c0efa0-a942-4617-b1a5-6c6fa3708bee,Zachary Shaffer,United States,2025-07-13 06:32:17,Active,Low
+ad8f42e3-0518-434c-8393-011df721a81a,Aaron Thomas,Germany,2020-10-30 12:32:44,Active,Low
+4a0dae56-d4d6-4e9f-885e-86d593945911,Abigail Richard,Australia,2024-08-17 06:50:21,Active,Low
+f639158d-0559-4c12-9a0b-97f107f44986,Marissa Allen,United States,2022-06-30 07:43:21,Frozen,Low
+4b092d9c-fada-469f-acc7-553f7e19d747,Brandon Maldonado,United States,2021-01-16 08:33:57,Active,Low
+e99c2cd1-f6a4-4536-ba19-27c4e34b7c45,Lynn Wright,United States,2022-03-02 08:51:38,Closed,Low
+673ead99-e499-4e6d-b3b7-666c9122d44e,Lorraine Palmer,Germany,2023-03-26 04:15:32,Active,Low
+20bd4827-812e-42d8-a223-eb5633d3ed18,Danielle Price,United States,2024-06-16 02:39:27,Active,Medium
+372f7768-f1f0-4eb4-b28f-4456971438eb,Kenneth Patterson,United States,2023-04-23 10:47:29,Active,Low
+179f2863-f3d3-4f24-a35d-4d3763b55cb5,Billy Watkins,United States,2022-08-22 03:13:25,Active,High
+175a99c7-4a54-4789-9afa-74df32a4d4e8,Carlos Proctor,United States,2024-05-20 03:04:59,Active,Medium
+88a58b59-a63a-47f7-abbd-f9442a20965c,Jennifer Young,Australia,2020-05-07 19:12:19,Active,Medium
+cf7dbbd2-b768-465c-bb17-86943b9bd3c8,Patrick Banks,France,2023-08-03 11:18:14,Active,Low
+607457f1-e886-4072-a3fb-142e6ef1ffe7,Larry Munoz,Australia,2020-01-24 18:40:48,Active,Medium
+eefa6913-8b81-4ca1-af94-5845fdb4d1f0,Thomas Morrow,United States,2019-12-31 02:32:21,Active,High
+21c90c4a-ea49-4c11-a2f9-fd27969c16a6,Sherry Fowler,Germany,2020-09-06 13:40:05,Active,High
+d43909fa-a3f6-41bf-a01f-3b60e3e9f9aa,Jennifer Marsh,United Kingdom,2021-12-28 20:19:54,Active,Low
+3e316b94-b601-4add-be33-c0a9819d9165,Andrea White,United States,2023-04-04 04:06:27,Active,Medium
+1f74d581-74b3-4441-a653-7b7a5ae2fb24,Stacey Bass,Canada,2021-05-20 00:22:12,Active,Low
+85b9528b-242a-4050-a843-61ed28e8a506,James Garcia,United States,2020-06-24 11:19:23,Active,Low
+63d0ca84-d82c-4b97-846a-8b0c379cb4c9,William Bass,Canada,2024-04-01 12:47:14,Active,Medium
+cef69c1e-f370-4d73-bcff-51e0ba0c15a0,Jennifer Simon,Canada,2023-09-17 05:25:17,Active,High
+3fe7c61b-9b0a-43cc-9d41-301f221171a8,Bradley Robertson,Canada,2023-06-24 01:28:19,Active,High
+33acf7cf-0065-4149-9669-8f04ec47169b,Robert Harding,Germany,2025-03-20 22:23:04,Active,Medium
+c6771d05-86a2-407a-b36c-ddc83b4e4155,James Arnold,United Kingdom,2022-06-10 05:51:43,Active,Low
+f227a3c1-62df-4ab7-a99a-ae5960cce187,Virginia Miller,Germany,2020-07-18 06:49:58,Active,Low
+c93a4153-c669-4374-b496-8730d6f97818,David Bates,United States,2020-11-09 13:26:08,Frozen,Medium
+10c60a45-7e39-478b-9527-d07230503998,Abigail Montgomery,United States,2022-10-01 14:50:33,Active,Medium
+38d62d31-66cd-4c1f-bd1c-e7c894c3ebcd,Frances Johnson,Canada,2024-07-24 07:16:05,Active,Low
+c8e81e99-ad56-4610-9f08-336d0d9218e5,Michael Fuentes,Germany,2020-12-14 21:16:45,Active,Low
+dd30702b-8361-4f87-9a22-2288c7891eeb,Emily Griffin,United States,2020-12-03 02:07:22,Frozen,High
+7e5daed1-dd19-4a39-ab59-863c3c7f11d3,Julia Robbins,United States,2023-07-29 03:16:58,Active,Low
+2070ce0e-486f-4fe7-a5d4-d0b9d64c02ef,Anthony Scott,United States,2023-09-02 13:17:10,Closed,Medium
+ca938fa6-31c8-4417-8e8a-7d738fa70131,Timothy Wagner,United States,2020-05-12 15:32:05,Active,High
+0decc6a7-b981-4bf6-aaad-e00e5cf9ae77,Christine Meyer,Germany,2024-06-20 23:19:35,Frozen,Low
+755fadd5-dffe-409d-b3ec-6600aa3c7321,Lori Taylor,United Kingdom,2023-04-05 22:00:09,Active,Medium
+597ca23d-0055-4236-b7b8-8f6c08c3473a,Margaret Freeman,United States,2022-09-21 18:22:13,Active,High
+ca8f75d9-e4df-4ef4-a3ee-d8e6c26d6ae4,Christina Young,United States,2024-05-04 11:26:44,Active,Low
+30fbc53b-401f-4979-bf56-7d5184805d89,Dennis Robinson,United Kingdom,2019-10-06 11:49:04,Active,Low
+e7b26401-4637-4018-b25c-38d2b1f194ee,Kevin Brown,United States,2021-10-17 02:04:55,Active,High
+f48ab56d-2969-46bb-8596-462570de2839,Evelyn Garcia,United States,2020-05-19 15:37:50,Active,Medium
+806ffc32-e76b-4aa2-b319-6b0e44a7672b,Kylie Mcdonald DDS,United States,2023-06-16 11:23:50,Active,Low
+86073187-1c98-44e1-a8b3-9ae3d7ca7f80,Kaylee Reid,United States,2022-03-24 02:08:01,Active,Low
+6dffeb1f-2bbe-401f-812d-5bc2a4e7c627,Amanda Logan,France,2022-09-03 19:41:34,Active,Low
+b3e95d94-7381-4192-95a3-79c9b70c0508,Stacy Morales,United Kingdom,2020-04-22 14:06:41,Active,High
+c8e948bc-ecbf-4dbe-963e-fceb40fe5eb6,Natasha Wood,United States,2023-04-03 14:14:03,Closed,Low
+b9eee5a7-d9d0-4369-9b25-ce9ede96b798,Amy Carroll,United Kingdom,2020-04-21 07:59:06,Closed,Low
+1a73e9dd-f03c-4315-a107-732970229088,Jacob Jones,United Kingdom,2020-10-21 16:36:51,Active,Medium
+fa1c4de5-7f46-49e4-898c-aa15d55a82c2,Valerie Richard,United States,2021-10-26 11:36:33,Active,High
+07f647dd-547c-4cb0-812c-e72c6e4570a6,Patrick Carroll,United States,2021-07-10 13:30:32,Frozen,Low
+d787f6de-bc4d-4be5-8ebc-5a36afa3e944,Frederick Williams,United States,2020-11-29 15:10:07,Active,Medium
+dbc9eda2-58dd-4376-ad7e-11cea7612aec,Jaime Hansen,Canada,2020-05-16 01:36:44,Active,Medium
+0c91e4b2-ef78-41da-b0b1-dbd34d504214,Rita Anderson,United States,2022-06-15 19:50:18,Active,Low
+9de8128d-40d8-4a77-a41b-d595e005df22,James Burgess PhD,United States,2024-03-24 21:10:21,Active,Medium
