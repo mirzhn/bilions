@@ -1,5 +1,5 @@
 CREATE TABLE clients (
-    ClientID UUID PRIMARY KEY,          -- Уникальный идентификатор клиента
+    ClientID UUID,          -- Уникальный идентификатор клиента
     Name String,                        -- Имя клиента
     Country String,                     -- Страна клиента
     RegistrationDate DateTime,          -- Дата регистрации клиента
@@ -9,7 +9,7 @@ CREATE TABLE clients (
 ORDER BY ClientID;
 
 CREATE TABLE accounts (
-    AccountID UUID PRIMARY KEY,         -- Уникальный идентификатор аккаунта
+    AccountID UUID,         -- Уникальный идентификатор аккаунта
     ClientID UUID,                      -- Ссылка на клиента (Foreign Key)
     AccountType String,                 -- Тип аккаунта (реальный, демо)
     Currency String,                    -- Валюта счета (USD, EUR и т.д.)
@@ -20,7 +20,7 @@ CREATE TABLE accounts (
 ORDER BY AccountID;
 
 CREATE TABLE orders (
-    OrderID UUID PRIMARY KEY,           -- Уникальный идентификатор ордера
+    OrderID UUID,           -- Уникальный идентификатор ордера
     AccountID UUID,                     -- Ссылка на аккаунт клиента
     Instrument String,                  -- Торговый инструмент (например, EUR/USD)
     OrderType String,                   -- Тип ордера (Buy, Sell, Limit, Stop)
@@ -35,7 +35,7 @@ CREATE TABLE orders (
 ORDER BY OrderID;
 
 CREATE TABLE trades (
-    TradeID UUID PRIMARY KEY,           -- Уникальный идентификатор сделки
+    TradeID UUID,           -- Уникальный идентификатор сделки
     OrderID UUID,                       -- Ссылка на связанный ордер
     Instrument String,                  -- Торговый инструмент (например, EUR/USD)
     TradeDate DateTime,                 -- Дата и время исполнения сделки
@@ -49,7 +49,7 @@ CREATE TABLE trades (
 ORDER BY TradeID;
 
 CREATE TABLE positions (
-    PositionID UUID PRIMARY KEY,        -- Уникальный идентификатор позиции
+    PositionID UUID,        -- Уникальный идентификатор позиции
     AccountID UUID,                     -- Ссылка на торговый счет клиента
     Instrument String,                  -- Торговый инструмент (например, EUR/USD)
     Volume Decimal(18, 2),              -- Объем позиции
@@ -66,7 +66,7 @@ ORDER BY PositionID;
 
 
 CREATE TABLE commissions (
-    CommissionID UUID PRIMARY KEY,      -- Уникальный идентификатор комиссии
+    CommissionID UUID,      -- Уникальный идентификатор комиссии
     TradeID UUID,                       -- Ссылка на сделку
     AccountID UUID,                     -- Ссылка на аккаунт
     Instrument String,                  -- Торговый инструмент
@@ -77,7 +77,7 @@ CREATE TABLE commissions (
 ORDER BY CommissionID;
 
 CREATE TABLE reports (
-    ReportID UUID PRIMARY KEY,          -- Уникальный идентификатор отчета
+    ReportID UUID,          -- Уникальный идентификатор отчета
     AccountID UUID,                     -- Ссылка на аккаунт
     ReportType String,                  -- Тип отчета (Trade Report, PnL Report, Position Report)
     GeneratedDate DateTime,             -- Дата и время генерации отчета
@@ -90,18 +90,18 @@ CREATE TABLE reports (
 ORDER BY ReportID;
 
 CREATE TABLE transactions (
-    TransactionID UUID PRIMARY KEY,        -- Уникальный идентификатор транзакции
+    TransactionID UUID,        -- Уникальный идентификатор транзакции
     AccountID UUID,                        -- Ссылка на торговый счет клиента
     TransactionType String,                -- Тип транзакции (Deposit, Withdrawal, Bonus, Commission)
     Amount Decimal(18, 2),                 -- Сумма транзакции
     Currency String,                       -- Валюта транзакции (например, USD, EUR)
     TransactionDate DateTime,              -- Дата и время транзакции
-    Status String,                         -- Статус транзакции (Completed, Pending, Failed)
+    Status String                          -- Статус транзакции (Completed, Pending, Failed)
 ) ENGINE = MergeTree()
 ORDER BY TransactionID;
 
 CREATE TABLE risk_management (
-    RiskID UUID PRIMARY KEY,             -- Уникальный идентификатор для каждой записи управления рисками
+    RiskID UUID,             -- Уникальный идентификатор для каждой записи управления рисками
     AccountID UUID,                      -- Ссылка на торговый счет клиента
     MaxLeverage Decimal(5, 2),           -- Максимальное кредитное плечо для аккаунта
     MarginCallLevel Decimal(5, 2),       -- Уровень маржинального требования (%)
@@ -113,5 +113,3 @@ CREATE TABLE risk_management (
     UpdatedAt DateTime                  -- Дата последнего обновления настройки
 ) ENGINE = MergeTree()
 ORDER BY RiskID;
-
-

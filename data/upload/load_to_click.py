@@ -6,14 +6,14 @@ csv_dir = '../out/'
 
 # Список таблиц и соответствующих CSV-файлов
 tables = {
-    #'clients': 'clients.csv',
-    #'accounts': 'accounts.csv',
-    'orders': 'orders.csv'
-    #'trades': 'trades.csv',
-    #'transactions': 'transactions.csv',
-    #'commissions': 'commissions.csv',
-    #'reports': 'reports.csv', 
-    #'risk_management': 'risk_management.csv'
+    'clients': 'clients.csv',
+    'accounts': 'accounts.csv',
+    'orders': 'orders.csv',
+    'trades': 'trades.csv',
+    'transactions': 'transactions.csv',
+    'commissions': 'commissions.csv',
+    'reports': 'reports.csv', 
+    'risk_management': 'risk_management.csv'
 }
 
 # Цикл по всем таблицам и загрузка данных
