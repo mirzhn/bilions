@@ -117,3 +117,9 @@ ORDER BY RiskID;
 
 ALTER TABLE transactions 
 ADD INDEX idx_transaction_type TransactionType TYPE set(0) GRANULARITY 64;
+
+ALTER TABLE transactions 
+ADD INDEX idx_currency Currency TYPE set(0) GRANULARITY 64;
+
+ALTER TABLE transactions 
+ADD INDEX idx_transaction_date TransactionDate TYPE minmax GRANULARITY 64;
