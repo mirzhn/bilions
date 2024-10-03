@@ -113,3 +113,7 @@ CREATE TABLE risk_management (
     UpdatedAt DateTime                  -- Дата последнего обновления настройки
 ) ENGINE = MergeTree()
 ORDER BY RiskID;
+
+
+ALTER TABLE transactions 
+ADD INDEX idx_transaction_type TransactionType TYPE set(0) GRANULARITY 64;
