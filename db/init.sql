@@ -132,3 +132,10 @@ FROM `default`.transactions t
 WHERE t.Status  = 'Completed'
 	AND t.TransactionType IN ('Deposit', 'Withdrawal')
 GROUP BY toStartOfMinute(t.TransactionDate);
+
+
+CREATE TABLE time_period_filter (
+    filter_type String
+) ENGINE = Memory;
+
+INSERT INTO time_period_filter VALUES ('Месяц'), ('Квартал'), ('Год');
