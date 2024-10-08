@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # Путь к директории с CSV-файлами
-csv_dir = '../out/'
+csv_dir = './out/'
 
 # Список таблиц и соответствующих CSV-файлов
 tables = {

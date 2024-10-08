@@ -123,3 +123,12 @@ ADD INDEX idx_currency Currency TYPE set(0) GRANULARITY 64;
 
 ALTER TABLE transactions 
 ADD INDEX idx_transaction_date TransactionDate TYPE minmax GRANULARITY 64;
+
+CREATE VIEW transactions_net_deposit AS 
+SELECT 
+	toStartOfMinute(t.TransactionDate) AS TransactionDate, 
+	SUM(CASE WHEN t.TransactionType = 'Deposit' THEN t.Amount ELSE -t.Amount END) AS amount
+FROM `default`.transactions t 
+WHERE t.Status  = 'Completed'
+	AND t.TransactionType IN ('Deposit', 'Withdrawal')
+GROUP BY toStartOfMinute(t.TransactionDate);
