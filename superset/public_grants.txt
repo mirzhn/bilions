@@ -6,3 +6,4 @@ can read on DashboardFilterStateRestApi
 can explore json on Superset
 can dashboard on Superset
 all datasource access on all_datasource_access
+can time range on Api

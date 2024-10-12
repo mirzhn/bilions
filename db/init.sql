@@ -139,3 +139,25 @@ CREATE TABLE time_period_filter (
 ) ENGINE = Memory;
 
 INSERT INTO time_period_filter VALUES ('Месяц'), ('Квартал'), ('Год');
+
+
+CREATE VIEW trades_view AS 
+SELECT 
+	t.TradeID, 
+	t.OrderID, 
+	t.Instrument, 
+	t.TradeDate,
+	t.Volume, 
+	t.Price, 
+	t.TradeType, 
+	t.ProfitLoss, 
+	t.Commission, 
+	t.Swap,
+	o.OrderDate,
+	o.ExecutionDate, 
+	o.AccountID, 
+	a.AccountType
+FROM default.trades t 
+	JOIN `default`.orders o ON o.OrderID = t.OrderID
+	JOIN `default`.accounts a ON a.AccountID = o.AccountID
+;
