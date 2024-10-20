@@ -19,5 +19,11 @@ tables = {
 # Цикл по всем таблицам и загрузка данных
 for table, csv_file in tables.items():
     csv_path = os.path.join(csv_dir, csv_file)
-    cmd = f"clickhouse-client --port 9000 --user default --query='INSERT INTO {table} FORMAT CSV' < {csv_path}"
-    subprocess.run(cmd, shell=True)
+    
+    # Очистка таблицы перед загрузкой
+    clear_cmd = f"clickhouse-client --port 9000 --user default --query='TRUNCATE TABLE {table}'"
+    subprocess.run(clear_cmd, shell=True)
+    
+    # Загрузка данных из CSV
+    load_cmd = f"clickhouse-client --port 9000 --user default --query='INSERT INTO {table} FORMAT CSV' < {csv_path}"
+    subprocess.run(load_cmd, shell=True)
