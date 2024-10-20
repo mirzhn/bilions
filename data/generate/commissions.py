@@ -23,10 +23,10 @@ def read_commission_transactions_from_csv(filename):
 def generate_commissions_csv(filename, transactions):
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['CommissionID', 'TradeID', 'AccountID', 'CommissionType', 'CommissionAmount', 'CommissionDate'])
+        writer.writerow(['CommissionID', 'TransactionID', 'AccountID', 'CommissionType', 'CommissionAmount', 'CommissionDate'])
         for transaction in transactions:
             commission_type = generate_commission_type()
-            writer.writerow([str(uuid.uuid4()), transaction['TradeID'] if transaction['TradeID'] else str(uuid.uuid4()), transaction['AccountID'], commission_type, transaction['Amount'], transaction['TransactionDate']])
+            writer.writerow([str(uuid.uuid4()), transaction['TransactionID'] if transaction['TransactionID'] else str(uuid.uuid4()), transaction['AccountID'], commission_type, transaction['Amount'], transaction['TransactionDate']])
 
 def generate_commissions(filename, transactions_filename):
     transactions = read_commission_transactions_from_csv(transactions_filename)
