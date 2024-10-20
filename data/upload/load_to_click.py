@@ -13,7 +13,8 @@ tables = {
     'transactions': 'transactions.csv',
     'commissions': 'commissions.csv',
     'reports': 'reports.csv', 
-    'risk_management': 'risk_management.csv'
+    'risk_management': 'risk_management.csv',
+    'currency': 'currency.csv'
 }
 
 # Цикл по всем таблицам и загрузка данных
