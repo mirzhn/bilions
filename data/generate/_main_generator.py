@@ -35,15 +35,15 @@ def generate_all_data():
     risk_management_filename = f'{TARGET_DIR}/risk_management.csv'
 
     # Call each generation function with size parameter
-    generate_clients(clients_filename, 1000)
+    generate_clients(clients_filename, 2000)
     generate_accounts(accounts_filename, clients_filename)
-    generate_orders(order_filename, clients_filename, accounts_filename, 100000)
+    generate_orders(order_filename, clients_filename, accounts_filename)
     generate_positions(positions_filename, order_filename)
     generate_trades(trades_filename, order_filename)
     generate_transactions(transactions_filename, order_filename, accounts_filename, clients_filename)
     generate_commissions(commissions_filename, transactions_filename)
     generate_reports(reports_filename, clients_filename, accounts_filename)
-    generate_risk_management(risk_management_filename, accounts_filename)
+    generate_risk_management(risk_management_filename, accounts_filename, clients_filename, order_filename)
     print("Data generation completed.")
 
 if __name__ == '__main__':

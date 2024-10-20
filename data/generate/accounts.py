@@ -2,83 +2,93 @@ import csv
 import uuid
 import random
 from faker import Faker
+import pycountry
+import numpy as np
 
-# Инициализируем Faker
 fake = Faker()
-
-# Вероятности для типа счета
 ACCOUNT_TYPES = ['Real', 'Demo']
-ACCOUNT_TYPE_WEIGHTS = [0.8, 0.2]  # 80% реальных счетов, 20% демо-счетов
+ACCOUNT_TYPE_WEIGHTS = [0.8, 0.2]
+CURRENCIES = [currency.alpha_3 for currency in pycountry.currencies]
+POPULAR_CURRENCIES = ['USD', 'EUR', 'GBP', 'JPY', 'AUD']
+CURRENCY_WEIGHTS = []
+for currency in CURRENCIES:
+    if currency in POPULAR_CURRENCIES:
+        CURRENCY_WEIGHTS.append(0.01)
+    else:
+        CURRENCY_WEIGHTS.append(0.001)
+total_weight = sum(CURRENCY_WEIGHTS)
+CURRENCY_WEIGHTS = [weight / total_weight for weight in CURRENCY_WEIGHTS]
+TRADING_STYLES = ['Scalping', 'Day Trading', 'Swing Trading', 'Position Trading']
+TRADING_STYLE_WEIGHTS = [0.1, 0.2, 0.4, 0.3]
 
-# Вероятности для валют
-CURRENCIES = ['USD', 'EUR', 'GBP', 'JPY', 'AUD']
-CURRENCY_WEIGHTS = [0.5, 0.2, 0.1, 0.1, 0.1]  # 50% клиентов используют USD
+def generate_balance(client_country):
+    if client_country in ['United States', 'Germany', 'United Kingdom', 'France', 'Canada', 'Australia']:
+        mean, sigma = (9, 1)
+    else:
+        mean, sigma = (8, 1.5)
+    balance = round(np.random.lognormal(mean, sigma), 2)
+    return min(balance, 1000000)
 
-# Распределение баланса
-def generate_balance():
-    # 70% клиентов имеют баланс в диапазоне от 1000 до 10,000, 20% — от 10,000 до 50,000, и 10% — больше 50,000
-    balance = random.choices(
-        [round(random.uniform(1000, 10000), 2),
-         round(random.uniform(10000, 50000), 2),
-         round(random.uniform(50000, 100000), 2)],
-        weights=[0.7, 0.2, 0.1], k=1
-    )[0]
-    return balance
+def generate_equity(balance, leverage):
+    if leverage <= 50:
+        equity = round(balance * random.uniform(0.9, 1.1), 2)
+        return equity
+    equity = round(balance * random.uniform(0.8, 1.2), 2)
+    return equity
 
-# Распределение эквити
-def generate_equity(balance):
-    # Эквити в пределах 80-120% от баланса
-    return round(balance * random.uniform(0.8, 1.2), 2)
+def generate_leverage(account_type):
+    if account_type == 'Demo':
+        mean, sigma = (100, 50)
+    else:
+        mean, sigma = (50, 20)
+    leverage = max(1, min(int(np.random.normal(mean, sigma)), 200))
+    return leverage
 
-# Распределение кредитного плеча
-LEVERAGES = [1, 10, 25, 50, 100, 200]
-LEVERAGE_WEIGHTS = [0.05, 0.15, 0.2, 0.3, 0.2, 0.1]  # 50% клиентов используют плечо до 50
-
-# Функция для генерации типа счета с вероятностями
 def generate_account_type():
     return random.choices(ACCOUNT_TYPES, weights=ACCOUNT_TYPE_WEIGHTS, k=1)[0]
 
-# Функция для генерации валюты с вероятностями
-def generate_currency():
+def generate_currency(client_country):
+    if client_country in ['United States']:
+        return 'USD'
+    if client_country in ['Eurozone', 'Germany', 'France']:
+        return 'EUR'
+    if client_country in ['United Kingdom']:
+        return 'GBP'
+    if client_country in ['Japan']:
+        return 'JPY'
+    if client_country in ['Australia']:
+        return 'AUD'
     return random.choices(CURRENCIES, weights=CURRENCY_WEIGHTS, k=1)[0]
 
-# Функция для генерации кредитного плеча с вероятностями
-def generate_leverage():
-    return random.choices(LEVERAGES, weights=LEVERAGE_WEIGHTS, k=1)[0]
+def generate_trading_style():
+    return random.choices(TRADING_STYLES, weights=TRADING_STYLE_WEIGHTS, k=1)[0]
 
-# Функция для чтения ClientID из файла clients.csv
-def read_client_ids_from_csv(filename):
-    client_ids = []
+def read_client_ids_and_countries_from_csv(filename):
+    client_data = []
     with open(filename, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            client_ids.append(row['ClientID'])  # Считываем ClientID из каждой строки
-    return client_ids
+            client_data.append({'ClientID': row['ClientID'], 'Country': row['Country']})
+        return client_data
 
-# Функция для генерации данных о счетах
-def generate_accounts_csv(filename, client_ids):
+def generate_accounts_csv(filename, client_data):
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        # Пишем заголовки
-        writer.writerow(['AccountID', 'ClientID', 'AccountType', 'Currency', 'Balance', 'Equity', 'Leverage'])
-        
-        for client_id in client_ids:
-            # Генерируем случайное количество аккаунтов для каждого клиента (например, от 1 до 3 аккаунтов)
+        writer.writerow(['AccountID', 'ClientID', 'AccountType', 'Currency', 'Balance', 'Equity', 'Leverage', 'TradingStyle'])
+        for client in client_data:
+            client_id = client['ClientID']
+            client_country = client['Country']
             num_accounts = random.randint(1, 3)
-            
             for _ in range(num_accounts):
-                account_id = str(uuid.uuid4())  # Генерация уникального UUID для счета
-                account_type = generate_account_type()  # Тип счета с вероятностями (реальный или демо)
-                currency = generate_currency()  # Валюта счета с вероятностями
-                balance = generate_balance()  # Баланс счета с распределением
-                equity = generate_equity(balance)  # Эквити на основе баланса
-                leverage = generate_leverage()  # Кредитное плечо с вероятностями
-                
-                # Записываем данные в CSV
-                writer.writerow([account_id, client_id, account_type, currency, balance, equity, leverage])
+                account_id = str(uuid.uuid4())
+                account_type = generate_account_type()
+                currency = generate_currency(client_country)
+                balance = generate_balance(client_country)
+                leverage = generate_leverage(account_type)
+                equity = generate_equity(balance, leverage)
+                trading_style = generate_trading_style()
+                writer.writerow([account_id, client_id, account_type, currency, balance, equity, leverage, trading_style])
 
-# Генерация данных для аккаунтов
 def generate_accounts(filename, client_file_name):
-    client_ids = read_client_ids_from_csv(client_file_name)
-    generate_accounts_csv(filename, client_ids)
-
+    client_data = read_client_ids_and_countries_from_csv(client_file_name)
+    generate_accounts_csv(filename, client_data)
