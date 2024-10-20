@@ -62,49 +62,95 @@ JOIN currency c ON c.`Date` = t.TradeDateOnly
     AND c.TargetCurrency = a.Currency
 ;
 
--- Представление client_perfomance_view
-DROP VIEW IF EXISTS client_perfomance_view;
-CREATE VIEW client_perfomance_view AS 
+DROP VIEW IF EXISTS client_Performance_1_trades;
+CREATE VIEW client_Performance_1_trades AS 
 SELECT 
     c.ClientID AS ClientID, 
     c.Name AS Name, 
     c.Country AS Country, 
-    t.ProfitLoss AS ProfitLoss, 
+    t.ProfitLoss * cur.ExchangeRate AS ProfitLoss, 
     t.TradeDate AS TradeDate,
-    a.Balance AS Balance, 
+    a.Balance * cur.ExchangeRate AS Balance, 
     c.RegistrationDate, 
     toStartOfMonth(c.RegistrationDate) AS RegistrationMonth, 
-    toStartOfMonth(t.TradeDate) AS TradeMonth
-FROM default.trades t 
-JOIN default.orders o ON o.OrderID = t.OrderID
-JOIN default.accounts a ON a.AccountID = o.AccountID
-JOIN default.clients c ON c.ClientID = a.ClientID
-;
-
--- Представление risk_management_view
-DROP VIEW IF EXISTS risk_management_view;
-CREATE VIEW risk_management_view AS 
-SELECT 
-    rm.AccountID AS AccountID, 
+    toStartOfMonth(t.TradeDate) AS TradeMonth, 
+    t.Instrument AS Instrument, 
+    a.Equity * cur.ExchangeRate AS Equity, 
     rm.MaxLeverage AS MaxLeverage,
     rm.MarginCallLevel AS MarginCallLevel,
     rm.StopOutLevel AS StopOutLevel, 
     rm.MaxDailyLoss AS MaxDailyLoss, 
     rm.MaxTradeSize AS MaxTradeSize, 
     rm.RiskLevel AS RiskLevel, 
-    rm.CreatedAt AS CreatedAt, 
-    a.Balance AS Balance, 
-    a.Equity AS Equity
-FROM risk_management rm
-JOIN default.accounts a ON a.AccountID = rm.AccountID
+    rm.CreatedAt AS CreatedAt
+FROM trades t 
+	JOIN orders o ON o.OrderID = t.OrderID
+	JOIN accounts a ON a.AccountID = o.AccountID
+	JOIN clients c ON c.ClientID = a.ClientID
+	JOIN currency cur ON cur.`Date` = t.TradeDateOnly
+    	AND cur.TargetCurrency = a.Currency
+    JOIN risk_management rm on rm.AccountID = a.AccountID
 ;
 
--- Представление account_exceeding_limits_view
-DROP VIEW IF EXISTS account_exceeding_limits_view;
-CREATE VIEW account_exceeding_limits_view AS 
+
+DROP VIEW IF EXISTS client_Performance_1_trades;
+CREATE VIEW client_Performance_1_trades AS 
+SELECT 
+    c.ClientID AS ClientID, 
+    c.Name AS Name, 
+    c.Country AS Country, 
+    a.Balance * cur.ExchangeRate AS Balance, 
+    c.RegistrationDate, 
+    toStartOfMonth(c.RegistrationDate) AS RegistrationMonth, 
+    a.Equity * cur.ExchangeRate AS Equity, 
+    rm.MaxLeverage AS MaxLeverage,
+    rm.MarginCallLevel AS MarginCallLevel,
+    rm.StopOutLevel AS StopOutLevel, 
+    rm.MaxDailyLoss AS MaxDailyLoss, 
+    rm.MaxTradeSize AS MaxTradeSize, 
+    rm.RiskLevel AS RiskLevel, 
+    rm.CreatedAt AS CreatedAt
+FROM risk_management rm
+	JOIN accounts a ON rm.AccountID = a.AccountID
+	JOIN clients c ON c.ClientID = a.ClientID
+	JOIN currency cur ON cur.`Date` = toDate(NOW())
+    	AND cur.TargetCurrency = a.Currency
+;
+
+
+
+DROP VIEW IF EXISTS risk_management_1_risk_management;
+CREATE VIEW risk_management_1_risk_management AS 
+SELECT 
+    c.ClientID AS ClientID,
+    a.AccountID AS AccountID,
+    c.Name AS Name, 
+    c.Country AS Country, 
+    a.Balance * cur.ExchangeRate AS Balance, 
+    c.RegistrationDate, 
+    toStartOfMonth(c.RegistrationDate) AS RegistrationMonth, 
+    a.Equity * cur.ExchangeRate AS Equity, 
+    rm.MaxLeverage AS MaxLeverage,
+    rm.MarginCallLevel AS MarginCallLevel,
+    rm.StopOutLevel AS StopOutLevel, 
+    rm.MaxDailyLoss AS MaxDailyLoss, 
+    rm.MaxTradeSize AS MaxTradeSize, 
+    rm.RiskLevel AS RiskLevel, 
+    rm.CreatedAt AS CreatedAt
+FROM risk_management rm
+	JOIN accounts a ON rm.AccountID = a.AccountID
+	JOIN clients c ON c.ClientID = a.ClientID
+	JOIN currency cur ON cur.`Date` = toDate(NOW())
+    	AND cur.TargetCurrency = a.Currency
+;
+
+DROP VIEW IF EXISTS risk_management_2_account_exceeding;
+CREATE VIEW risk_management_2_account_exceeding AS 
 SELECT 
     t.TradeDate AS TradeDate,
     rm.AccountID AS AccountID, 
+    c.Country AS Country, 
+    rm.RiskLevel AS RiskLevel, 
     (t.Volume > rm.MaxTradeSize 
     OR t.ProfitLoss < -rm.MaxDailyLoss 
     OR a.Leverage > rm.MaxLeverage) AS is_exceeding_limits, 
@@ -112,7 +158,8 @@ SELECT
     OR t.ProfitLoss < -rm.MaxDailyLoss 
     OR a.Leverage > rm.MaxLeverage) AS is_not_exceeding_limits
 FROM risk_management rm
-JOIN accounts a ON rm.AccountID = a.AccountID
-JOIN orders o ON o.AccountID = a.AccountID
-JOIN trades t ON t.OrderID = o.OrderID
+    JOIN accounts a ON rm.AccountID = a.AccountID
+    JOIN orders o ON o.AccountID = a.AccountID
+    JOIN trades t ON t.OrderID = o.OrderID
+    JOIN clients c ON c.ClientID = a.ClientID
 ;

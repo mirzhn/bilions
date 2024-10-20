@@ -19,7 +19,6 @@ def read_commission_transactions_from_csv(filename):
             if row['TransactionType'] == 'Commission':
                 transactions.append({'TransactionID': row['TransactionID'], 'AccountID': row['AccountID'], 'Amount': float(row['Amount']), 'Currency': row['Currency'], 'TransactionDate': row['TransactionDate'], 'TradeID': row['TradeID'] if 'TradeID' in row else None})
         return transactions
-        return transactions
 
 def generate_commissions_csv(filename, transactions):
     with open(filename, mode='w', newline='', encoding='utf-8') as file:

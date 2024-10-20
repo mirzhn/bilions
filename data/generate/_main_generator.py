@@ -9,6 +9,7 @@ from commissions import generate_commissions
 from reports import generate_reports
 from positions import generate_positions
 from risk_management import generate_risk_management
+from currency import generate_currency_rates
 
 # Define the target directory where CSV files are stored
 TARGET_DIR = './out/'
@@ -33,6 +34,7 @@ def generate_all_data():
     reports_filename = f'{TARGET_DIR}/reports.csv'
     positions_filename = f'{TARGET_DIR}/positions.csv'
     risk_management_filename = f'{TARGET_DIR}/risk_management.csv'
+    currency_filename = f'{TARGET_DIR}/currency.csv'
 
     # Call each generation function with size parameter
     generate_clients(clients_filename, 2000)
@@ -44,6 +46,7 @@ def generate_all_data():
     generate_commissions(commissions_filename, transactions_filename)
     generate_reports(reports_filename, clients_filename, accounts_filename)
     generate_risk_management(risk_management_filename, accounts_filename, clients_filename, order_filename)
+    generate_currency_rates(currency_filename, accounts_filename)
     print("Data generation completed.")
 
 if __name__ == '__main__':

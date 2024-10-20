@@ -14,9 +14,9 @@ MAX_DAILY_LOSS_DISTRIBUTION = {'Low': (1000, 5000), 'Medium': (5000, 20000), 'Hi
 MAX_TRADE_SIZE_DISTRIBUTION = {'Low': (1, 10), 'Medium': (10, 50), 'High': (50, 100)}
 
 def choose_risk_level(account_balance, account_age_days):
-    if account_balance > 50000 or account_age_days > 365:
+    if account_balance > 500000 or account_age_days < 50:
         return 'High'
-    if account_balance > 10000 or account_age_days > 180:
+    if account_balance > 10000 or account_age_days < 180:
         return 'Medium'
     return 'Low'
 
@@ -30,9 +30,9 @@ def generate_max_leverage(risk_level, account_activity_level):
 
 def assess_account_activity(account_id, trades):
     number_of_trades = trades.get(account_id, 0)
-    if number_of_trades > 100:
+    if number_of_trades > 700:
         return 'High'
-    if number_of_trades > 50:
+    if number_of_trades > 500:
         return 'Medium'
     return 'Low'
 
@@ -42,7 +42,6 @@ def read_account_data_from_csv(filename):
         reader = csv.DictReader(file)
         for row in reader:
             accounts.append({'AccountID': row['AccountID'], 'Balance': float(row['Balance']), 'RegistrationDate': datetime.strptime(row['RegistrationDate'], '%Y-%m-%d %H:%M:%S')})
-        return accounts
         return accounts
 
 def read_order_counts_from_csv(filename):
@@ -55,7 +54,6 @@ def read_order_counts_from_csv(filename):
                 order_counts[account_id] += 1
             else:
                 order_counts[account_id] = 1
-        return order_counts
         return order_counts
 
 def read_account_data_from_csv(accounts_filename, clients_filename):
@@ -71,7 +69,6 @@ def read_account_data_from_csv(accounts_filename, clients_filename):
             registration_date = client_registration_dates.get(row['ClientID'], None)
             if registration_date:
                 accounts.append({'AccountID': row['AccountID'], 'Balance': float(row['Balance']), 'RegistrationDate': registration_date})
-        return accounts
         return accounts
 
 def generate_margin_call_level(risk_level, account_activity_level):
@@ -127,3 +124,4 @@ def generate_risk_management(filename, accounts_filename, clients_filename, orde
     accounts = read_account_data_from_csv(accounts_filename, clients_filename)
     order_counts = read_order_counts_from_csv(orders_filename)
     generate_risk_management_csv(filename, accounts, order_counts)
+

@@ -25,6 +25,6 @@ for table, csv_file in tables.items():
     clear_cmd = f"clickhouse-client --port 9000 --user default --query='TRUNCATE TABLE {table}'"
     subprocess.run(clear_cmd, shell=True)
     
-    # Загрузка данных из CSV
-    load_cmd = f"clickhouse-client --port 9000 --user default --query='INSERT INTO {table} FORMAT CSV' < {csv_path}"
+    # Загрузка данных из CSV с заголовками (CSVWithNames)
+    load_cmd = f"clickhouse-client --port 9000 --user default --query='INSERT INTO {table} FORMAT CSVWithNames' < {csv_path}"
     subprocess.run(load_cmd, shell=True)
