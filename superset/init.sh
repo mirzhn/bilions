@@ -15,4 +15,4 @@ docker network create superset_clickhouse_network
 
 
 python3 ./generate/_main_generator.py
-ython3 ./upload/load_to_click.py
+python3 ./upload/load_to_click.py

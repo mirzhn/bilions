@@ -14,7 +14,7 @@ JOIN currency c ON c.`Date` = t.TransactionDateOnly
     AND c.TargetCurrency = t.Currency 
 JOIN accounts a ON a.AccountID = t.AccountID
 JOIN clients cl ON cl.ClientID = a.ClientID
-LEFT JOIN commissions cm ON cm.TradeID = t.TradeID
+LEFT JOIN commissions cm ON cm.TransactionID  = t.TransactionID
 ;
 
 -- Представление financial_overview_1_transactions_net_deposit

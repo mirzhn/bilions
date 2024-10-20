@@ -39,4 +39,4 @@ def generate_currency_rates(filename, accounts_filename):
     generate_currency_rates_csv(filename, currencies)
 
 # Пример использования
-generate_currency_rates('./out/currency.csv', './out/accounts.csv')
+#generate_currency_rates('./out/currency.csv', './out/accounts.csv')
