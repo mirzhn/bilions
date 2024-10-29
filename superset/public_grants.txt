@@ -1,0 +1,9 @@
+can read on CssTemplate
+can read on Chart
+can read on Dashboard
+can write on DashboardFilterStateRestApi
+can read on DashboardFilterStateRestApi
+can explore json on Superset
+can dashboard on Superset
+all datasource access on all_datasource_access
+can time range on Api

@@ -1,0 +1,147 @@
+# -----------------------------------------------------------------------
+# We don't support docker compose for production environments.
+# If you choose to use this type of deployment make sure to
+# create you own docker environment file (docker/.env) with your own
+# unique random secure passwords and SECRET_KEY.
+# -----------------------------------------------------------------------
+
+# Удалите строки с якорем и ссылками, заменив их на явные значения
+# Измененный docker-compose.yml
+services:
+  redis:
+    image: redis:7
+    container_name: superset_cache
+    restart: unless-stopped
+    volumes:
+      - redis:/data
+    networks:
+      - superset_clickhouse_network
+
+  db:
+    env_file:
+        docker/.env # default
+    image: postgres:15
+    container_name: superset_db
+    restart: unless-stopped
+    volumes:
+      - db_home:/var/lib/postgresql/data
+      - ./docker/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+    networks:
+      - superset_clickhouse_network
+
+  superset:
+    env_file:
+        docker/.env # default
+    image: apache/superset:latest-dev # Удалите ссылку на якорь и укажите изображение явно
+    container_name: superset_app
+    command:
+      - /bin/bash
+      - -c
+      - |
+        pip install clickhouse-connect &&
+        /app/docker/docker-bootstrap.sh app-gunicorn
+    user: "root"
+    restart: unless-stopped
+    ports:
+      - 8088:8088
+    depends_on:
+      - db
+      - redis
+    volumes:
+      - ./docker:/app/docker
+      - superset_home:/app/superset_home
+    networks:
+      - superset_clickhouse_network
+
+  superset-init:
+    image: apache/superset:latest-dev # Удалите ссылку на якорь и укажите изображение явно
+    container_name: superset_init
+    command: ["/app/docker/docker-init.sh"]
+    env_file:
+        docker/.env # default
+    depends_on:
+      - db
+      - redis
+    user: "root"
+    volumes:
+      - ./docker:/app/docker
+      - superset_home:/app/superset_home
+    healthcheck:
+      disable: true
+    networks:
+      - superset_clickhouse_network
+
+  superset-worker:
+    image: apache/superset:latest-dev # Удалите ссылку на якорь и укажите изображение явно
+    container_name: superset_worker
+    command: ["/app/docker/docker-bootstrap.sh", "worker"]
+    env_file:
+        docker/.env # default
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    user: "root"
+    volumes:
+      - ./docker:/app/docker
+      - superset_home:/app/superset_home
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "celery -A superset.tasks.celery_app:app inspect ping -d celery@$$HOSTNAME",
+        ]
+    networks:
+      - superset_clickhouse_network
+
+  superset-worker-beat:
+    image: apache/superset:latest-dev # Удалите ссылку на якорь и укажите изображение явно
+    container_name: superset_worker_beat
+    command: ["/app/docker/docker-bootstrap.sh", "beat"]
+    env_file:
+        docker/.env # default
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    user: "root"
+    volumes:
+      - ./docker:/app/docker
+      - superset_home:/app/superset_home
+    healthcheck:
+      disable: true
+    networks:
+      - superset_clickhouse_network
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:latest
+    container_name: clickhouse_server
+    restart: unless-stopped
+    ports:
+      - "8123:8123"   # HTTP интерфейс
+      - "9000:9000"   # TCP интерфейс
+      - "9009:9009"   # Интерфейс для репликации (если потребуется)
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+    environment:
+      CLICKHOUSE_USER: default
+      CLICKHOUSE_DB: default
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:8123/ || exit 1"]
+    networks:
+      - superset_clickhouse_network
+
+networks:
+  superset_clickhouse_network:
+    external: true
+
+volumes:
+  superset_home:
+    external: false
+  db_home:
+    external: false
+  redis:
+    external: false
+  clickhouse_data:
+    external: false
