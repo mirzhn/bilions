@@ -92,16 +92,20 @@ FROM trades t
     JOIN risk_management rm on rm.AccountID = a.AccountID
 ;
 
-
+/*
 DROP VIEW IF EXISTS client_Performance_1_trades;
 CREATE VIEW client_Performance_1_trades AS 
 SELECT 
     c.ClientID AS ClientID, 
     c.Name AS Name, 
     c.Country AS Country, 
+    t.ProfitLoss * cur.ExchangeRate AS ProfitLoss, 
+    t.TradeDate AS TradeDate,
     a.Balance * cur.ExchangeRate AS Balance, 
     c.RegistrationDate, 
     toStartOfMonth(c.RegistrationDate) AS RegistrationMonth, 
+    toStartOfMonth(t.TradeDate) AS TradeMonth, 
+    t.Instrument AS Instrument, 
     a.Equity * cur.ExchangeRate AS Equity, 
     rm.MaxLeverage AS MaxLeverage,
     rm.MarginCallLevel AS MarginCallLevel,
@@ -116,7 +120,7 @@ FROM risk_management rm
 	JOIN currency cur ON cur.`Date` = toDate(NOW())
     	AND cur.TargetCurrency = a.Currency
 ;
-
+*/
 
 
 DROP VIEW IF EXISTS risk_management_1_risk_management;
